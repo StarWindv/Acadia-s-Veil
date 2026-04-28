@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "0.0.2",
   "name": "Acadia's Veil",
   "summary": "Acadia's Veil-fabric-1.20.1-0.0.1",
   "files": [
@@ -213,6 +213,17 @@
         "https://cdn.modrinth.com/data/G26sLP13/versions/BOTA6ONZ/CrystalCarpetAddition-mc1.20.1-v1.6.2.jar"
       ],
       "fileSize": 308227
+    },
+    {
+      "path": "mods/customcredits-1.20.1-1.7.jar",
+      "hashes": {
+        "sha1": "00b3554fca8950d32e929a0cc58bafd31d435989",
+        "sha512": "961db95fa555c60ff2463fd45b6c44db878503e9d3435d25637670b6ca65c345ce7ada550d5a8201884d0ef7ecba99e937bdc0921c2527ced2d55b0b7ec6c5d6"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GhWh8CAU/versions/I5HtCHmD/customcredits-1.20.1-1.7.jar"
+      ],
+      "fileSize": 50325
     },
     {
       "path": "mods/customcursor-fabric-3.0.3+1.20.1.jar",
@@ -1216,17 +1227,6 @@
       "fileSize": 64238
     },
     {
-      "path": "mods/[幻想铠甲] fantasy_armor-fabric-1.2.4-1.20.1.jar",
-      "hashes": {
-        "sha1": "85e541d1d81be041b1c761e18698692abc492a44",
-        "sha512": "deadff2b696a4acbc1b6c672c15e1fa7a80627673cdf7b8b6b007a31ea7ad5c066d4d7daede7056939923c46687b637bcd4fc813e80fba292aeff3eb92b072aa"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/oVmpjYQ5/versions/PnSumomM/fantasy_armor-fabric-1.2.4-1.20.1.jar"
-      ],
-      "fileSize": 544403
-    },
-    {
       "path": "mods/[快速退出] fastquit-3.0.0+1.20+.jar",
       "hashes": {
         "sha1": "68f080925502a49027e231c63d3b94128ed6499b",
@@ -1368,17 +1368,6 @@
         "https://cdn.modrinth.com/data/MpzVLzy5/versions/IG7kgtJH/better-nether-9.0.10.jar"
       ],
       "fileSize": 22981698
-    },
-    {
-      "path": "mods/[更好的末地] better-end-4.0.11.jar",
-      "hashes": {
-        "sha1": "1e54364d63245a51e66e414ca73efbac9e05f11d",
-        "sha512": "5faae5cb3d8759837ec341c605dd9c8b6b32a908e7e1f1248b3b2567c5f9969079df33694cdfb6c743a732bfc9d5824843a93edec07f09e68f8b408e355d15e7"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar"
-      ],
-      "fileSize": 92544800
     },
     {
       "path": "mods/[更好的末地乐事] BetterEndDelight-0.4.0-alpha.jar",
@@ -1665,17 +1654,6 @@
         "https://cdn.modrinth.com/data/bK3Ubu9p/versions/xe5E39uw/simplyswords-fabric-1.56.0-1.20.1.jar"
       ],
       "fileSize": 15366470
-    },
-    {
-      "path": "mods/[终末之诗扩展补丁] end-poem-extension-3.0.2+1.20.jar",
-      "hashes": {
-        "sha1": "56ff30b8dfd0e6eaa27973442705f0e283e8ab8a",
-        "sha512": "908c93dc25cc2d488aad8453ae49a02ccc7754622558f78eb490f6c52337f58681951edbb5927bddce9b239ba893c76307a620036e2842ad79ff51ff149d7bbb"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/es432VKT/versions/iVjpqx7q/end-poem-extension-3.0.2%2B1.20.jar"
-      ],
-      "fileSize": 54486
     },
     {
       "path": "mods/[网络音乐机] netmusic-1.4.0-fabric+mc1.20.1.jar",

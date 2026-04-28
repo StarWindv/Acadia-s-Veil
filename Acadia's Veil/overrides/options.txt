@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","spoornpacks","fabric","minecraft:udpresencefootsteps","file/.addurdisc","bakery:minecraft_bricks","vinery:bushy_leaves","file/Faithful 64x - Beta 9.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Better+Lanterns+v1.2(mc-1.20.1).zip","file/RAYs_3D_Ladders_v2.0.zip","file/RAYs_3D_Rails_v3.0.zip","file/LowOnFire_1.20.1.zip","file/Low Shield.zip","file/§3Fresh §bFlower Pots.zip","file/Aimz - Better Crosshair.zip","file/No Pumpkin Blur 1.2.zip"]
-incompatibleResourcePacks:["file/RAYs_3D_Ladders_v2.0.zip","file/RAYs_3D_Rails_v3.0.zip","file/No Pumpkin Blur 1.2.zip"]
+resourcePacks:["vanilla","spoornpacks","fabric","minecraft:udpresencefootsteps","file/.addurdisc","bakery:minecraft_bricks","vinery:bushy_leaves","file/Faithful 64x - Beta 9.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/RAYs_3D_Rails_v3.0.zip","file/RAYs_3D_Ladders_v2.0.zip","file/Better+Lanterns+v1.2(mc-1.20.1).zip","file/LowOnFire_1.20.1.zip","file/Low Shield.zip","file/§3Fresh §bFlower Pots.zip","file/Aimz - Better Crosshair.zip","file/Acadia","file/No Pumpkin Blur 1.2.zip"]
+incompatibleResourcePacks:["file/RAYs_3D_Rails_v3.0.zip","file/RAYs_3D_Ladders_v2.0.zip","file/No Pumpkin Blur 1.2.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""

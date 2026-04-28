@@ -1,0 +1,22 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [15, 84],
+		"min_format": 15,
+		"max_format": 84,
+		"description": [
+			{
+				"text": "■ Acadia's Veil\nBy: StarWindv\nNirvana From:\n - \"Faithful 64x(仅侦测器)\"\n - \"明月庄主红石生电优化(仅红石状态显式)\"\n■",
+				"color": "#808080"
+			},
+			{
+              	 		"text": "v0.0.1",
+				"color": "gray"
+			},
+			{
+              	 		"text": "by StarWindv",
+				"color": "#808080"
+			}
+		]
+	}
+}

@@ -4,15 +4,15 @@
     "enabled": true,
     "dynamicEnabled": true,
     "arrow": {
-      "x": 0.0625,
-      "y": 0.0625,
+      "x": 0.0,
+      "y": 0.0,
       "rotation": 0.0,
       "mirroredX": false,
       "mirroredY": false,
       "identifier": {
         "field_13353": "cursorfolder",
-        "field_13355": "d5053d24050e7239ba497fa08207ce42.png",
-        "cachedString": "cursorfolder:d5053d24050e7239ba497fa08207ce42.png"
+        "field_13355": "default.png",
+        "cachedString": "cursorfolder:default.png"
       }
     },
     "ibeam": {
