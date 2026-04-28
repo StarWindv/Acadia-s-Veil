@@ -3,7 +3,7 @@
   "formatVersion": 1,
   "versionId": "0.0.2",
   "name": "Acadia's Veil",
-  "summary": "Acadia's Veil-fabric-1.20.1-0.0.1",
+  "summary": "Acadia's Veil-fabric-1.20.1-0.0.2",
   "files": [
     {
       "path": "mods/ancientreforging-1.3-fabric.jar",
@@ -180,17 +180,6 @@
         "https://cdn.modrinth.com/data/e0M1UDsY/versions/27IPdmJc/collective-1.20.1-8.20.jar"
       ],
       "fileSize": 662457
-    },
-    {
-      "path": "mods/CraftTweaker-fabric-1.20.1-14.0.60.jar",
-      "hashes": {
-        "sha1": "9bc7a3263ffe98cb7a39dc710b28a20766567f17",
-        "sha512": "35b400facf98136d76b2e0cdc8a1642d1615f90d69cb904f8a936bc1407633c1c318d123cfa3d9e2d93a7817578a9da75fa9b116f170b4c81b9e6bc5ecd45abe"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Xg35A4rS/versions/gQ5hs0IZ/CraftTweaker-fabric-1.20.1-14.0.60.jar"
-      ],
-      "fileSize": 3994103
     },
     {
       "path": "mods/cristellib-1.1.5-fabric.jar",
@@ -1073,6 +1062,17 @@
       "fileSize": 20156785
     },
     {
+      "path": "mods/[初始套件] starterkit-1.20.1-7.4.jar",
+      "hashes": {
+        "sha1": "8c6f9cb038c7b41b317f79645c8110a9f31016ca",
+        "sha512": "bb4d83fe928171bacd44d3c025f0dfbe6f42abb613f2b8d6a185cdd131a9856a9cec6cdc47c9130b4f417eab90bcc333e49453283a86f8bb28d478dc954eb3db"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6L3ydNi8/versions/8vUVrBt5/starterkit-1.20.1-7.4.jar"
+      ],
+      "fileSize": 185182
+    },
+    {
       "path": "mods/[别样家具] another_furniture-fabric-1.20.1-3.0.5.jar",
       "hashes": {
         "sha1": "c0cd2d6e8035809b845c22a554038e1dba179bac",
@@ -1709,17 +1709,6 @@
         "https://cdn.modrinth.com/data/2H1rLgy4/versions/XJuipL0d/xplus-autofish-1.3.1-fabric-mc1.20.1.jar"
       ],
       "fileSize": 122397
-    },
-    {
-      "path": "mods/[自定义初始物品] InitialInventory-fabric-1.20.1-11.0.2.jar",
-      "hashes": {
-        "sha1": "363d823d5b7fdd6f199300996b376a5bc98c49d3",
-        "sha512": "3182b0faca0502177ee18b9c7c83009c610073607cde5f8456ddf1111142607c9835e22433c7bd1f36db35c487bf65f193fc91eb76fb97bbe03d48d31190a461"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/L4ZloL5E/versions/3QMjeqPC/InitialInventory-fabric-1.20.1-11.0.2.jar"
-      ],
-      "fileSize": 32270
     },
     {
       "path": "mods/[自定义唱片] AddurDisc-Fabric-1.20.x-1.3.jar",

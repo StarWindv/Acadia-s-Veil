@@ -1,0 +1,1682 @@
+[
+  {
+    "modid": "additionalentityattributes",
+    "name": "Additional Entity Attributes",
+    "version": "1.7.6+1.20.1"
+  },
+  {
+    "modid": "addurdisc",
+    "name": "AddurDisc",
+    "version": "1.3"
+  },
+  {
+    "modid": "ancientreforging",
+    "name": "Ancient Reforging",
+    "version": "1.3-fabric"
+  },
+  {
+    "modid": "annotationtoolbox",
+    "name": "AnnotationToolBox",
+    "version": "0.3"
+  },
+  {
+    "modid": "another_furniture",
+    "name": "Another Furniture",
+    "version": "1.20.1-3.0.5"
+  },
+  {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.5.2+mc1.20.1"
+  },
+  {
+    "modid": "aquamirae",
+    "name": "Aquamirae",
+    "version": "6"
+  },
+  {
+    "modid": "architectury",
+    "name": "Architectury",
+    "version": "9.2.14"
+  },
+  {
+    "modid": "artifacts",
+    "name": "Artifacts",
+    "version": "9.5.17"
+  },
+  {
+    "modid": "auto_mod",
+    "name": "auto mod",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "autofish",
+    "name": "XPlus Autofish",
+    "version": "1.3.1-fabric-mc1.20.1"
+  },
+  {
+    "modid": "autotag",
+    "name": "AutoTag",
+    "version": "2.0.2+1.20"
+  },
+  {
+    "modid": "autotag-convention",
+    "name": "AutoTag Convention",
+    "version": "2.0.2+1.20"
+  },
+  {
+    "modid": "bakery",
+    "name": "[Let\u0027s Do] Bakery",
+    "version": "1.1.15"
+  },
+  {
+    "modid": "balancedrecipes",
+    "name": "Balanced recipes",
+    "version": "1.9"
+  },
+  {
+    "modid": "balm",
+    "name": "Balm",
+    "version": "7.3.38"
+  },
+  {
+    "modid": "barbequesdelight",
+    "name": "Barbeque\u0027s Delight",
+    "version": "1.1.0"
+  },
+  {
+    "modid": "bclib",
+    "name": "BCLib",
+    "version": "3.0.14"
+  },
+  {
+    "modid": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.4.2.25"
+  },
+  {
+    "modid": "betterarcheology",
+    "name": "Better Archeology",
+    "version": "1.2.1-1.20.1"
+  },
+  {
+    "modid": "bettercombat",
+    "name": "Better Combat",
+    "version": "1.9.0+1.20.1"
+  },
+  {
+    "modid": "betterend",
+    "name": "Better End",
+    "version": "4.0.11"
+  },
+  {
+    "modid": "betterenddelight",
+    "name": "BetterEndDelight",
+    "version": "0.4.0-alpha"
+  },
+  {
+    "modid": "betterendisland",
+    "name": "YUNG\u0027s Better End Island",
+    "version": "1.20-Fabric-2.0.6"
+  },
+  {
+    "modid": "betterfurnacesreforged",
+    "name": "Better Furnaces Reforged",
+    "version": "1.1.2518.1"
+  },
+  {
+    "modid": "bettermineshafts",
+    "name": "YUNG\u0027s Better Mineshafts",
+    "version": "1.20-Fabric-4.0.4"
+  },
+  {
+    "modid": "betternether",
+    "name": "Better Nether",
+    "version": "9.0.10"
+  },
+  {
+    "modid": "bettervillage",
+    "name": "Better village",
+    "version": "3.3.1"
+  },
+  {
+    "modid": "betterwitchhuts",
+    "name": "YUNG\u0027s Better Witch Huts",
+    "version": "1.20-Fabric-3.0.3"
+  },
+  {
+    "modid": "biomesoplenty",
+    "name": "BiomesOPlenty",
+    "version": "19.0.0.96"
+  },
+  {
+    "modid": "blue_endless_jankson",
+    "name": "jankson",
+    "version": "1.2.3"
+  },
+  {
+    "modid": "bosses_of_mass_destruction",
+    "name": "Bosses of Mass Destruction (Beta)",
+    "version": "1.7.5-1.20.1"
+  },
+  {
+    "modid": "botania",
+    "name": "Botania",
+    "version": "1.20.1-452-FABRIC"
+  },
+  {
+    "modid": "boxlib",
+    "name": "BoxLib",
+    "version": "11.3.2"
+  },
+  {
+    "modid": "bygone_nether_fixes",
+    "name": "Bygone Nether Fixes",
+    "version": "1.1.0"
+  },
+  {
+    "modid": "bygonenether",
+    "name": "Bygone Nether",
+    "version": "1.3.2"
+  },
+  {
+    "modid": "c2me",
+    "name": "Concurrent Chunk Management Engine",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-base",
+    "name": "Concurrent Chunk Management Engine (Base)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-client-uncapvd",
+    "name": "Concurrent Chunk Management Engine (Client/Uncap View Distance)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-fixes-chunkio-threading-issues",
+    "name": "Concurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-fixes-general-threading-issues",
+    "name": "Concurrent Chunk Management Engine (Fixes/General/Threading Issues)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-fixes-worldgen-threading-issues",
+    "name": "Concurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-fixes-worldgen-vanilla-bugs",
+    "name": "Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-notickvd",
+    "name": "Concurrent Chunk Management Engine (No Tick View Distance)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-opts-allocs",
+    "name": "Concurrent Chunk Management Engine (Optimizations/Memory Allocations)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-opts-chunk-access",
+    "name": "Concurrent Chunk Management Engine (Optimizations/Chunk Access)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-opts-chunkio",
+    "name": "Concurrent Chunk Management Engine (Optimizations/Chunk IO)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-opts-math",
+    "name": "Concurrent Chunk Management Engine (Optimizations/Math)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-opts-scheduling",
+    "name": "Concurrent Chunk Management Engine (Optimizations/Scheduling)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-opts-worldgen-general",
+    "name": "Concurrent Chunk Management Engine (Optimizations/General WorldGen)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-opts-worldgen-vanilla",
+    "name": "Concurrent Chunk Management Engine (Optimizations/Vanilla WorldGen)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-rewrites-chunk-serializer",
+    "name": "Concurrent Chunk Management Engine (Rewrites/Chunk Serializer)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-rewrites-chunkio",
+    "name": "Concurrent Chunk Management Engine (Rewrites/Chunk IO)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-server-utils",
+    "name": "Concurrent Chunk Management Engine (Server Utils)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-threading-chunkio",
+    "name": "Concurrent Chunk Management Engine (Threading/WorldGen)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-threading-lighting",
+    "name": "Concurrent Chunk Management Engine (Threading/Lighting)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "c2me-threading-worldgen",
+    "name": "Concurrent Chunk Management Engine (Threading/WorldGen)",
+    "version": "0.2.0+alpha.11.16"
+  },
+  {
+    "modid": "caffeineconfig",
+    "name": "CaffeineConfig",
+    "version": "1.3.0+1.17"
+  },
+  {
+    "modid": "cardinal-components",
+    "name": "Cardinal Components API",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-base",
+    "name": "Cardinal Components API (base)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-block",
+    "name": "Cardinal Components API (blocks)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-chunk",
+    "name": "Cardinal Components API (chunks)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-entity",
+    "name": "Cardinal Components API (entities)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-item",
+    "name": "Cardinal Components API (items)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-level",
+    "name": "Cardinal Components API (world saves)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-scoreboard",
+    "name": "Cardinal Components API (scoreboard)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "cardinal-components-world",
+    "name": "Cardinal Components API (worlds)",
+    "version": "5.2.3"
+  },
+  {
+    "modid": "carpet",
+    "name": "Carpet Mod",
+    "version": "1.4.112+v230608"
+  },
+  {
+    "modid": "carpet-ams-addition",
+    "name": "Carpet AMS Addition",
+    "version": "2.54.0"
+  },
+  {
+    "modid": "carpet-extra",
+    "name": "Carpet Extra",
+    "version": "1.4.115"
+  },
+  {
+    "modid": "carpet-fixes",
+    "name": "Carpet Fixes",
+    "version": "1.20-1.16.1"
+  },
+  {
+    "modid": "carpet-org-addition",
+    "name": "Carpet Org Addition",
+    "version": "1.34.2"
+  },
+  {
+    "modid": "carpet-tctc-addition",
+    "name": "Carpet TCTC Addition",
+    "version": "2.2.212+46263e3-stable"
+  },
+  {
+    "modid": "carpet-tctc-addition-1_20_1",
+    "name": "Carpet TCTC Addition for 1.20.1",
+    "version": "2.2.212+46263e3-stable"
+  },
+  {
+    "modid": "carpet-tis-addition",
+    "name": "Carpet TIS Addition",
+    "version": "1.80.0"
+  },
+  {
+    "modid": "carpetskyadditions",
+    "name": "Carpet Sky Additions",
+    "version": "1.20.1-4.4.2"
+  },
+  {
+    "modid": "carryon",
+    "name": "Carry On",
+    "version": "2.1.2.7"
+  },
+  {
+    "modid": "cca",
+    "name": "Crystal Carpet Addition",
+    "version": "1.6.2"
+  },
+  {
+    "modid": "chat_heads",
+    "name": "Chat Heads",
+    "version": "0.15.1"
+  },
+  {
+    "modid": "chatanimation",
+    "name": "ChatAnimation",
+    "version": "1.1.3"
+  },
+  {
+    "modid": "chunky",
+    "name": "Chunky",
+    "version": "1.3.146"
+  },
+  {
+    "modid": "clickadv",
+    "name": "Clickable Advancements Mod",
+    "version": "1.20.1-3.8"
+  },
+  {
+    "modid": "cloth-basic-math",
+    "name": "cloth-basic-math",
+    "version": "0.6.1"
+  },
+  {
+    "modid": "cloth-config",
+    "name": "Cloth Config v11",
+    "version": "11.1.136"
+  },
+  {
+    "modid": "collective",
+    "name": "Collective",
+    "version": "8.20"
+  },
+  {
+    "modid": "com_electronwill_night-config_core",
+    "name": "core",
+    "version": "3.6.7"
+  },
+  {
+    "modid": "com_electronwill_night-config_toml",
+    "name": "toml",
+    "version": "3.6.7"
+  },
+  {
+    "modid": "com_eliotlash_mclib_mclib",
+    "name": "mclib",
+    "version": "20"
+  },
+  {
+    "modid": "com_esotericsoftware_yamlbeans_yamlbeans",
+    "name": "yamlbeans",
+    "version": "1.17"
+  },
+  {
+    "modid": "com_fasterxml_jackson_core_jackson-annotations",
+    "name": "jackson-annotations",
+    "version": "2.15.2"
+  },
+  {
+    "modid": "com_fasterxml_jackson_core_jackson-core",
+    "name": "jackson-core",
+    "version": "2.15.2"
+  },
+  {
+    "modid": "com_fasterxml_jackson_core_jackson-databind",
+    "name": "jackson-databind",
+    "version": "2.15.2"
+  },
+  {
+    "modid": "com_ibm_async_asyncutil",
+    "name": "asyncutil",
+    "version": "0.1.0"
+  },
+  {
+    "modid": "com_twelvemonkeys_common_common-image",
+    "name": "common-image",
+    "version": "3.12.0"
+  },
+  {
+    "modid": "com_twelvemonkeys_common_common-io",
+    "name": "common-io",
+    "version": "3.12.0"
+  },
+  {
+    "modid": "com_twelvemonkeys_common_common-lang",
+    "name": "common-lang",
+    "version": "3.12.0"
+  },
+  {
+    "modid": "com_twelvemonkeys_imageio_imageio-core",
+    "name": "imageio-core",
+    "version": "3.12.0"
+  },
+  {
+    "modid": "com_twelvemonkeys_imageio_imageio-metadata",
+    "name": "imageio-metadata",
+    "version": "3.12.0"
+  },
+  {
+    "modid": "com_twelvemonkeys_imageio_imageio-webp",
+    "name": "imageio-webp",
+    "version": "3.12.0"
+  },
+  {
+    "modid": "conditional-mixin",
+    "name": "conditional mixin",
+    "version": "0.6.4"
+  },
+  {
+    "modid": "configured",
+    "name": "Configured",
+    "version": "2.2.3"
+  },
+  {
+    "modid": "controlling",
+    "name": "Controlling For Fabric",
+    "version": "12.0.2"
+  },
+  {
+    "modid": "crafttweaker",
+    "name": "CraftTweaker",
+    "version": "14.0.60"
+  },
+  {
+    "modid": "cratedelight",
+    "name": "Crate Delight",
+    "version": "25.9.22-1.20-fabric"
+  },
+  {
+    "modid": "cristellib",
+    "name": "Cristel Lib",
+    "version": "1.1.5"
+  },
+  {
+    "modid": "cubes-without-borders",
+    "name": "Cubes Without Borders",
+    "version": "3.0.0+mc1.20"
+  },
+  {
+    "modid": "culturaldelights",
+    "name": "Cultural Delights Fabric",
+    "version": "1.0.5+1.20.1"
+  },
+  {
+    "modid": "cupboard",
+    "name": "cupboard",
+    "version": "1.20.1-3.7"
+  },
+  {
+    "modid": "customcredits",
+    "name": "Custom Credits",
+    "version": "1.7"
+  },
+  {
+    "modid": "customcursor",
+    "name": "Custom cursor",
+    "version": "3.0.3"
+  },
+  {
+    "modid": "customportalapi",
+    "name": "Custom Portal Api",
+    "version": "0.0.1-beta65-1.20"
+  },
+  {
+    "modid": "customskinloader",
+    "name": "CustomSkinLoader",
+    "version": "14.28"
+  },
+  {
+    "modid": "diggusmaximus",
+    "name": "Diggus Maximus",
+    "version": "1.5.9-1.20"
+  },
+  {
+    "modid": "doapi",
+    "name": "[Let\u0027s Do] API",
+    "version": "1.2.14"
+  },
+  {
+    "modid": "dragonfight",
+    "name": "Dragonfight Mod",
+    "version": "1.20.1-4.7"
+  },
+  {
+    "modid": "dungeons_arise_seven_seas",
+    "name": "When Dungeons Arise: Seven Seas",
+    "version": "1.0.4"
+  },
+  {
+    "modid": "e4mc",
+    "name": "e4mc",
+    "version": "6.1.0"
+  },
+  {
+    "modid": "easyplacefix",
+    "name": "EasyPlaceFix",
+    "version": "0.2.9"
+  },
+  {
+    "modid": "easyshulkerboxes",
+    "name": "Easy Shulker Boxes",
+    "version": "8.0.2"
+  },
+  {
+    "modid": "ecologics",
+    "name": "Ecologics",
+    "version": "2.2.4"
+  },
+  {
+    "modid": "enchantedlib",
+    "name": "Enchanted Lib",
+    "version": "0.3.1"
+  },
+  {
+    "modid": "endersdelight",
+    "name": "Ender\u0027s Delight Refabricated",
+    "version": "1.20.1-1.0.2.refabricated"
+  },
+  {
+    "modid": "endrem",
+    "name": "End Remastered",
+    "version": "5.2.4"
+  },
+  {
+    "modid": "entity_model_features",
+    "name": "Entity Model Features",
+    "version": "3.2.2"
+  },
+  {
+    "modid": "entity_texture_features",
+    "name": "Entity Texture Features",
+    "version": "7.1"
+  },
+  {
+    "modid": "entityculling",
+    "name": "EntityCulling",
+    "version": "1.10.1"
+  },
+  {
+    "modid": "error_notifier",
+    "name": "Error Notifier",
+    "version": "1.0.9"
+  },
+  {
+    "modid": "expandability",
+    "name": "ExpandAbility",
+    "version": "9.0.4"
+  },
+  {
+    "modid": "expandeddelight",
+    "name": "Expanded Delight",
+    "version": "0.3.2"
+  },
+  {
+    "modid": "explorerscompass",
+    "name": "Explorer\u0027s Compass",
+    "version": "1.20.1-2.6.0-fabric"
+  },
+  {
+    "modid": "extensibleenums",
+    "name": "Extensible Enums",
+    "version": "7.0.1"
+  },
+  {
+    "modid": "extraalchemy",
+    "name": "Extra Alchemy",
+    "version": "1.10.0"
+  },
+  {
+    "modid": "fabric-language-kotlin",
+    "name": "Fabric Language Kotlin",
+    "version": "1.13.11+kotlin.2.3.21"
+  },
+  {
+    "modid": "fabric-permissions-api-v0",
+    "name": "fabric-permissions-api",
+    "version": "0.2-SNAPSHOT"
+  },
+  {
+    "modid": "fabricloader",
+    "name": "Fabric Loader",
+    "version": "0.19.2"
+  },
+  {
+    "modid": "factory_api",
+    "name": "Factory API",
+    "version": "2.2.7"
+  },
+  {
+    "modid": "faithfulmace",
+    "name": "Faithful Mace",
+    "version": "1.1.1"
+  },
+  {
+    "modid": "fakerlib",
+    "name": "fakerlib",
+    "version": "0.1.5"
+  },
+  {
+    "modid": "fantasy_armor",
+    "name": "Fantasy Armor",
+    "version": "1.2.4-1.20.1"
+  },
+  {
+    "modid": "farm_and_charm",
+    "name": "[Let\u0027s Do] Farm \u0026 Charm",
+    "version": "1.0.14"
+  },
+  {
+    "modid": "farmersdelight",
+    "name": "Farmer\u0027s Delight",
+    "version": "1.20.1-2.4.1+refabricated"
+  },
+  {
+    "modid": "fastquit",
+    "name": "FastQuit",
+    "version": "3.0.0+1.20+"
+  },
+  {
+    "modid": "faux-custom-entity-data",
+    "name": "Faux-Custom-Entity-Data",
+    "version": "6.0.1"
+  },
+  {
+    "modid": "ferritecore",
+    "name": "FerriteCore",
+    "version": "6.0.1"
+  },
+  {
+    "modid": "fiber",
+    "name": "fiber",
+    "version": "0.23.0-2"
+  },
+  {
+    "modid": "fixelytrabug",
+    "name": "FixElytraBug",
+    "version": "1.1.1"
+  },
+  {
+    "modid": "folk_sisby_kaleido-config",
+    "name": "kaleido-config",
+    "version": "0.3.3+1.3.2"
+  },
+  {
+    "modid": "forgeconfigapiport",
+    "name": "Forge Config API Port",
+    "version": "8.0.3"
+  },
+  {
+    "modid": "framework",
+    "name": "Framework",
+    "version": "0.8.0"
+  },
+  {
+    "modid": "gammautils",
+    "name": "Gamma Utils",
+    "version": "1.7.16"
+  },
+  {
+    "modid": "gca",
+    "name": "gugle-carpet-addition",
+    "version": "2.11.3+build.50"
+  },
+  {
+    "modid": "geckolib",
+    "name": "GeckoLib 4",
+    "version": "4.8.3"
+  },
+  {
+    "modid": "glitchcore",
+    "name": "GlitchCore",
+    "version": "0.0.1.1"
+  },
+  {
+    "modid": "goblintraders",
+    "name": "Goblin Traders",
+    "version": "1.11.5"
+  },
+  {
+    "modid": "gpumemleakfix",
+    "name": "Gpu memory leak fix mod",
+    "version": "1.20.1-1.8"
+  },
+  {
+    "modid": "guardvillagers",
+    "name": "GuardVillagers",
+    "version": "2.0.9-1.20.1"
+  },
+  {
+    "modid": "helditemtooltips",
+    "name": "Held Item Tooltips",
+    "version": "8.0.0"
+  },
+  {
+    "modid": "herbalbrews",
+    "name": "[Let\u0027s Do] HerbalBrews",
+    "version": "1.0.12"
+  },
+  {
+    "modid": "here-be-no-dragons",
+    "name": "Here be no Dragons!",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "iceandfire",
+    "name": "Ice And Fire Community Edition",
+    "version": "1.2.5"
+  },
+  {
+    "modid": "iceberg",
+    "name": "Iceberg",
+    "version": "1.1.25"
+  },
+  {
+    "modid": "illagerinvasion",
+    "name": "Illager Invasion",
+    "version": "8.0.7"
+  },
+  {
+    "modid": "imblocker",
+    "name": "IMBlocker",
+    "version": "5.5.1"
+  },
+  {
+    "modid": "immediatelyfast",
+    "name": "ImmediatelyFast",
+    "version": "1.5.4+1.20.4"
+  },
+  {
+    "modid": "immersive_aircraft",
+    "name": "Immersive Aircraft",
+    "version": "1.4.0+1.20.1"
+  },
+  {
+    "modid": "infinityandmending",
+    "name": "Infinity and Mending",
+    "version": "1.20.x-1.0.0"
+  },
+  {
+    "modid": "initialinventory",
+    "name": "Initial Inventory",
+    "version": "11.0.2"
+  },
+  {
+    "modid": "io_github_douira_glsl-transformer",
+    "name": "glsl-transformer",
+    "version": "2.0.1"
+  },
+  {
+    "modid": "iris",
+    "name": "Iris",
+    "version": "1.7.6+mc1.20.1"
+  },
+  {
+    "modid": "ironchest",
+    "name": "Iron Chests",
+    "version": "2.0.2"
+  },
+  {
+    "modid": "itemborders",
+    "name": "Item Borders",
+    "version": "1.2.2"
+  },
+  {
+    "modid": "itemfilters",
+    "name": "Item Filters",
+    "version": "2001.1.0-build.59"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "11.13.1+fabric"
+  },
+  {
+    "modid": "jankson",
+    "name": "Jankson",
+    "version": "6.0.0+j1.2.3"
+  },
+  {
+    "modid": "jep_jep",
+    "name": "jep",
+    "version": "2.24"
+  },
+  {
+    "modid": "jupiter",
+    "name": "Jupiter",
+    "version": "2.3.7"
+  },
+  {
+    "modid": "justzoom",
+    "name": "Just Zoom",
+    "version": "2.1.0"
+  },
+  {
+    "modid": "kirin",
+    "name": "Kirin UI",
+    "version": "1.15.6+1.20.1"
+  },
+  {
+    "modid": "kits",
+    "name": "Kits",
+    "version": "1.6.0-mc1.20.1"
+  },
+  {
+    "modid": "konkrete",
+    "name": "Konkrete",
+    "version": "1.8.1"
+  },
+  {
+    "modid": "kuma_api",
+    "name": "KumaAPI",
+    "version": "20.1.12"
+  },
+  {
+    "modid": "kyrptconfig",
+    "name": "Kyrpt Config",
+    "version": "1.5.6-1.20"
+  },
+  {
+    "modid": "lanoperators",
+    "name": "LAN Operators",
+    "version": "1.20.1-1.0.1"
+  },
+  {
+    "modid": "legendarytooltips",
+    "name": "Legendary Tooltips",
+    "version": "1.4.5"
+  },
+  {
+    "modid": "libgui",
+    "name": "LibGui",
+    "version": "8.1.1+1.20.1"
+  },
+  {
+    "modid": "libninepatch",
+    "name": "LibNinePatch",
+    "version": "1.2.0"
+  },
+  {
+    "modid": "libraryferret",
+    "name": "Library ferret",
+    "version": "4.0.0"
+  },
+  {
+    "modid": "libz",
+    "name": "LibZ",
+    "version": "1.0.3"
+  },
+  {
+    "modid": "litematica",
+    "name": "Litematica",
+    "version": "0.15.4"
+  },
+  {
+    "modid": "litematica_printer",
+    "name": "Litematica Printer",
+    "version": "3.2"
+  },
+  {
+    "modid": "lithium",
+    "name": "Lithium",
+    "version": "0.11.4"
+  },
+  {
+    "modid": "maelstrom_library",
+    "name": "Maelstrom Library",
+    "version": "1.6.1-1.20"
+  },
+  {
+    "modid": "magiclib",
+    "name": "MagicLib",
+    "version": "0.8.784+64fd923-stable"
+  },
+  {
+    "modid": "magiclib-1_20_1",
+    "name": "MagicLib Legacy Compat for 1.20.1",
+    "version": "0.8.51+6b4c932-stable"
+  },
+  {
+    "modid": "magiclib_core",
+    "name": "MagicLib Core API",
+    "version": "0.8.160+6b4c932-stable"
+  },
+  {
+    "modid": "magiclib_malilib_extra",
+    "name": "MagicLib Malilib API",
+    "version": "0.8.94+6b4c932-stable"
+  },
+  {
+    "modid": "magiclib_minecraft_api",
+    "name": "MagicLib Minecraft API",
+    "version": "0.6.105+6b4c932-stable"
+  },
+  {
+    "modid": "malilib",
+    "name": "MaLiLib",
+    "version": "0.16.3"
+  },
+  {
+    "modid": "mcwbridges",
+    "name": "Macaw\u0027s Bridges",
+    "version": "3.1.2"
+  },
+  {
+    "modid": "mcwfences",
+    "name": "Macaw\u0027s Fences and Walls",
+    "version": "1.2.1"
+  },
+  {
+    "modid": "mcwfurnitures",
+    "name": "Macaw\u0027s Furniture",
+    "version": "3.4.1"
+  },
+  {
+    "modid": "meadow",
+    "name": "[Let\u0027s Do] Meadow",
+    "version": "1.3.25"
+  },
+  {
+    "modid": "melody",
+    "name": "Melody",
+    "version": "1.0.3"
+  },
+  {
+    "modid": "midnightlib",
+    "name": "MidnightLib",
+    "version": "1.9.2"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.20.1"
+  },
+  {
+    "modid": "minihud",
+    "name": "MiniHUD",
+    "version": "0.27.1"
+  },
+  {
+    "modid": "mixinextras",
+    "name": "MixinExtras",
+    "version": "0.5.4"
+  },
+  {
+    "modid": "mixinsquared",
+    "name": "MixinSquared",
+    "version": "0.1.1"
+  },
+  {
+    "modid": "mkb",
+    "name": "ModernKeyBinding",
+    "version": "1.2.0"
+  },
+  {
+    "modid": "mm",
+    "name": "Manningham Mills",
+    "version": "2.3"
+  },
+  {
+    "modid": "modernfix",
+    "name": "ModernFix",
+    "version": "5.25.2+mc1.20.1"
+  },
+  {
+    "modid": "modmenu",
+    "name": "Mod Menu",
+    "version": "7.2.2"
+  },
+  {
+    "modid": "morechathistory",
+    "name": "More Chat History",
+    "version": "1.3.0"
+  },
+  {
+    "modid": "moredelight",
+    "name": "More Delight",
+    "version": "25.7.28-1.20-fabric"
+  },
+  {
+    "modid": "mr_iceandfire_smithing",
+    "name": "Ice And Fire Smithing",
+    "version": "1.20.1"
+  },
+  {
+    "modid": "mr_tidal_towns",
+    "name": "Tidal Towns",
+    "version": "1.3.4"
+  },
+  {
+    "modid": "multipart_entities",
+    "name": "MultipartEntities",
+    "version": "1.5-1.20"
+  },
+  {
+    "modid": "myloot",
+    "name": "myLoot",
+    "version": "4.0.3-1.20.1"
+  },
+  {
+    "modid": "naturalist",
+    "name": "Naturalist",
+    "version": "5.0pre3"
+  },
+  {
+    "modid": "net_jodah_typetools",
+    "name": "typetools",
+    "version": "0.6.3"
+  },
+  {
+    "modid": "net_lenni0451_reflect",
+    "name": "Reflect",
+    "version": "1.6.1+curseforge"
+  },
+  {
+    "modid": "net_objecthunter_exp4j",
+    "name": "exp4j",
+    "version": "0.4.8"
+  },
+  {
+    "modid": "nethersdelight",
+    "name": "Nether\u0027s Delight Refabricated",
+    "version": "1.20.1-4.1.1"
+  },
+  {
+    "modid": "netmusic",
+    "name": "Net Music Mod",
+    "version": "1.4.0-fabric+mc1.20.1"
+  },
+  {
+    "modid": "nochatreports",
+    "name": "No Chat Reports",
+    "version": "1.20.1-v2.2.2"
+  },
+  {
+    "modid": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.4.9+1.20.1"
+  },
+  {
+    "modid": "obscure_api",
+    "name": "Obscure API",
+    "version": "16"
+  },
+  {
+    "modid": "oceansdelight",
+    "name": "Ocean\u0027s Delight",
+    "version": "fdrf-fabric-1.0.2-1.20"
+  },
+  {
+    "modid": "omega-config",
+    "name": "OmegaConfig",
+    "version": "1.4.0+1.20.1"
+  },
+  {
+    "modid": "org_anarres_jcpp",
+    "name": "jcpp",
+    "version": "1.4.14"
+  },
+  {
+    "modid": "org_antlr_antlr4-runtime",
+    "name": "antlr4-runtime",
+    "version": "4.13.1"
+  },
+  {
+    "modid": "org_javassist_javassist",
+    "name": "javassist",
+    "version": "3.29.2-GA"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-reflect",
+    "name": "kotlin-reflect",
+    "version": "2.3.21"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-stdlib",
+    "name": "kotlin-stdlib",
+    "version": "2.3.21"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-stdlib-jdk7",
+    "name": "kotlin-stdlib-jdk7",
+    "version": "2.3.21"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-stdlib-jdk8",
+    "name": "kotlin-stdlib-jdk8",
+    "version": "2.3.21"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_atomicfu-jvm",
+    "name": "atomicfu-jvm",
+    "version": "0.32.1"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm",
+    "name": "kotlinx-coroutines-core-jvm",
+    "version": "1.10.2"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-coroutines-jdk8",
+    "name": "kotlinx-coroutines-jdk8",
+    "version": "1.10.2"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-datetime-jvm",
+    "name": "kotlinx-datetime-jvm",
+    "version": "0.7.1"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm",
+    "name": "kotlinx-io-bytestring-jvm",
+    "version": "0.9.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-io-core-jvm",
+    "name": "kotlinx-io-core-jvm",
+    "version": "0.9.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm",
+    "name": "kotlinx-serialization-cbor-jvm",
+    "version": "1.11.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-serialization-core-jvm",
+    "name": "kotlinx-serialization-core-jvm",
+    "version": "1.11.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-serialization-json-jvm",
+    "name": "kotlinx-serialization-json-jvm",
+    "version": "1.11.0"
+  },
+  {
+    "modid": "org_mariuszgromada_math_mathparser_org-mxparser",
+    "name": "MathParser.org-mXparser",
+    "version": "5.2.1"
+  },
+  {
+    "modid": "org_quiltmc_parsers_gson",
+    "name": "gson",
+    "version": "0.2.1"
+  },
+  {
+    "modid": "org_quiltmc_parsers_json",
+    "name": "json",
+    "version": "0.2.1"
+  },
+  {
+    "modid": "org_reflections_reflections",
+    "name": "reflections",
+    "version": "0.10.2"
+  },
+  {
+    "modid": "org_threadly_threadly",
+    "name": "threadly",
+    "version": "7.0"
+  },
+  {
+    "modid": "oworld2create",
+    "name": "0World2Create",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "paradise_lost",
+    "name": "Paradise Lost",
+    "version": "2.2.6-beta+1.20.0"
+  },
+  {
+    "modid": "patchouli",
+    "name": "Patchouli",
+    "version": "1.20.1-85-FABRIC"
+  },
+  {
+    "modid": "placeholder-api",
+    "name": "Placeholder API",
+    "version": "2.1.4+1.20.1"
+  },
+  {
+    "modid": "player-animator",
+    "name": "Player Animator",
+    "version": "1.0.2-rc1+1.20"
+  },
+  {
+    "modid": "playerabilitylib",
+    "name": "Pal",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "porting_lib_accessors",
+    "name": "Porting Lib Accessors",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_attributes",
+    "name": "Porting Lib Attributes",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_base",
+    "name": "Porting Lib Base",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_common",
+    "name": "Porting Lib Common",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_config",
+    "name": "Porting Lib Config",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_core",
+    "name": "Porting Lib Core",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_entity",
+    "name": "Porting Lib Entity",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_extensions",
+    "name": "Porting Lib Extensions",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_fluids",
+    "name": "Porting Lib Fluids",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_gui_utils",
+    "name": "Porting Lib Gui Utils",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_lazy_registration",
+    "name": "Porting Lib Lazy Register",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_loot",
+    "name": "Porting Lib Loot",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_mixin_extensions",
+    "name": "Porting Lib Mixin Extensions",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_model_loader",
+    "name": "Porting Lib Model Loader",
+    "version": "2.3.4+1.20.1"
+  },
+  {
+    "modid": "porting_lib_model_materials",
+    "name": "Porting Lib Model Materials",
+    "version": "2.3.4+1.20.1"
+  },
+  {
+    "modid": "porting_lib_models",
+    "name": "Porting Lib Models",
+    "version": "2.3.4+1.20.1"
+  },
+  {
+    "modid": "porting_lib_networking",
+    "name": "Porting Lib Networking",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_recipe_book_categories",
+    "name": "Porting Lib Recipe Book Categories",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_registries",
+    "name": "Porting Lib Registries",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_tags",
+    "name": "Porting Lib Tags",
+    "version": "3.0"
+  },
+  {
+    "modid": "porting_lib_tool_actions",
+    "name": "Porting Lib Tool Actions",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_transfer",
+    "name": "Porting Lib Transfer",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "porting_lib_utility",
+    "name": "Porting Lib Utility",
+    "version": "2.3.8+1.20.1"
+  },
+  {
+    "modid": "presencefootsteps",
+    "name": "Presence Footsteps",
+    "version": "1.10.1+1.20.1"
+  },
+  {
+    "modid": "prism",
+    "name": "Prism",
+    "version": "1.0.5"
+  },
+  {
+    "modid": "puzzlesaccessapi",
+    "name": "Puzzles Access Api",
+    "version": "20.1.1"
+  },
+  {
+    "modid": "puzzlesapi",
+    "name": "Puzzles Api",
+    "version": "8.1.6"
+  },
+  {
+    "modid": "puzzleslib",
+    "name": "Puzzles Lib",
+    "version": "8.1.32"
+  },
+  {
+    "modid": "reach-entity-attributes",
+    "name": "Reach Entity Attributes",
+    "version": "2.4.0"
+  },
+  {
+    "modid": "reactivemusic",
+    "name": "Reactive Music",
+    "version": "1.2.2+1.20.1"
+  },
+  {
+    "modid": "reeses-sodium-options",
+    "name": "Reese\u0027s Sodium Options",
+    "version": "1.7.2+mc1.20.1-build.101"
+  },
+  {
+    "modid": "roughlyenoughitems",
+    "name": "Roughly Enough Items",
+    "version": "12.1.785"
+  },
+  {
+    "modid": "rusticdelight",
+    "name": "Rustic Delight",
+    "version": "1.3.2"
+  },
+  {
+    "modid": "searchables",
+    "name": "Searchables",
+    "version": "1.0.3"
+  },
+  {
+    "modid": "sereneseasons",
+    "name": "SereneSeasons",
+    "version": "9.1.0.2"
+  },
+  {
+    "modid": "sgui",
+    "name": "sgui",
+    "version": "1.2.2+1.20"
+  },
+  {
+    "modid": "simplyswords",
+    "name": "Simply Swords",
+    "version": "1.56.0-1.20.1"
+  },
+  {
+    "modid": "sit",
+    "name": "Sit",
+    "version": "1.20.1-27"
+  },
+  {
+    "modid": "skeletonaifix",
+    "name": "Skeleton AI Fix",
+    "version": "20.1.1"
+  },
+  {
+    "modid": "skinlayers3d",
+    "name": "3d-Skin-Layers",
+    "version": "1.7.5"
+  },
+  {
+    "modid": "skyvillages",
+    "name": "Sky Villages",
+    "version": "1.0.4-1.19.2-1.20.1"
+  },
+  {
+    "modid": "slime_delight",
+    "name": "Slime Delight",
+    "version": "1.0-SNAPSHOT"
+  },
+  {
+    "modid": "smoothboot",
+    "name": "Smooth Boot",
+    "version": "1.19.4-1.0.0"
+  },
+  {
+    "modid": "sodium",
+    "name": "Sodium",
+    "version": "0.5.13+mc1.20.1"
+  },
+  {
+    "modid": "sodium-extra",
+    "name": "Sodium Extra",
+    "version": "0.5.9+mc1.20.1"
+  },
+  {
+    "modid": "somanyenchantments",
+    "name": "So Many Enchantments Mod",
+    "version": "0.4.1"
+  },
+  {
+    "modid": "spoornpacks",
+    "name": "SpoornPacks",
+    "version": "5.0-1.20.1"
+  },
+  {
+    "modid": "spruceui",
+    "name": "SpruceUI",
+    "version": "5.0.0+1.20"
+  },
+  {
+    "modid": "step-height-entity-attribute",
+    "name": "Step Height Entity Attribute",
+    "version": "1.2.0"
+  },
+  {
+    "modid": "storagedelight",
+    "name": "Storage Delight",
+    "version": "25.12.9-1.20-fabric"
+  },
+  {
+    "modid": "supermartijn642configlib",
+    "name": "SuperMartijn642\u0027s Config Lib",
+    "version": "1.1.8+a"
+  },
+  {
+    "modid": "t_and_t",
+    "name": "Towns and Towers",
+    "version": "1.12"
+  },
+  {
+    "modid": "team_reborn_energy",
+    "name": "Energy",
+    "version": "2.3.0"
+  },
+  {
+    "modid": "terrablender",
+    "name": "TerraBlender",
+    "version": "3.0.1.10"
+  },
+  {
+    "modid": "terraform-wood-api-v1",
+    "name": "Terraform Wood API (v1)",
+    "version": "7.0.1"
+  },
+  {
+    "modid": "tiered",
+    "name": "Tiered",
+    "version": "1.3.3"
+  },
+  {
+    "modid": "tlc",
+    "name": "The Lost Castle",
+    "version": "1.2.0"
+  },
+  {
+    "modid": "tooltipfix",
+    "name": "ToolTip Fix",
+    "version": "1.1.1-1.20"
+  },
+  {
+    "modid": "tp_not_need_to_permission",
+    "name": "tp_not_need_to_permission",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "tpaplusplus",
+    "name": "TPA++",
+    "version": "1.6.0-1.20.x-UNTESTED-BETA-3"
+  },
+  {
+    "modid": "trade_cycling",
+    "name": "Trade Cycling",
+    "version": "1.20.1-1.0.18"
+  },
+  {
+    "modid": "trailandtales_delight",
+    "name": "Trail\u0026Tales Delight",
+    "version": "1.2.5"
+  },
+  {
+    "modid": "transition",
+    "name": "TRansition",
+    "version": "1.0.17"
+  },
+  {
+    "modid": "travelersbackpack",
+    "name": "Traveler\u0027s Backpack",
+    "version": "9.1.51"
+  },
+  {
+    "modid": "trender",
+    "name": "TRender",
+    "version": "1.0.12"
+  },
+  {
+    "modid": "trinkets",
+    "name": "Trinkets",
+    "version": "3.7.2"
+  },
+  {
+    "modid": "tweakeroo",
+    "name": "Tweakeroo",
+    "version": "0.17.1"
+  },
+  {
+    "modid": "u_sea",
+    "name": "Unnamed Sea",
+    "version": "1.2.5"
+  },
+  {
+    "modid": "ubesdelight",
+    "name": "Ube\u0027s Delight",
+    "version": "0.4.11"
+  },
+  {
+    "modid": "uranus",
+    "name": "Uranus",
+    "version": "2.2.6"
+  },
+  {
+    "modid": "villagespawnpoint",
+    "name": "Village Spawn Point",
+    "version": "4.6"
+  },
+  {
+    "modid": "vinery",
+    "name": "[Let\u0027s Do] Vinery",
+    "version": "1.4.41"
+  },
+  {
+    "modid": "voxelmap",
+    "name": "Voxelmap",
+    "version": "1.20.1-1.12.13"
+  },
+  {
+    "modid": "wildernature",
+    "name": "[Let\u0027s Do] WilderNature",
+    "version": "1.0.6"
+  },
+  {
+    "modid": "wunderlib",
+    "name": "WunderLib",
+    "version": "1.1.5"
+  },
+  {
+    "modid": "yet_another_config_lib_v3",
+    "name": "YetAnotherConfigLib",
+    "version": "3.6.6+1.20.1-fabric"
+  },
+  {
+    "modid": "yungsapi",
+    "name": "YUNG\u0027s API",
+    "version": "1.20-Fabric-4.0.6"
+  },
+  {
+    "modid": "yungsbridges",
+    "name": "YUNG\u0027s Bridges",
+    "version": "1.20-Fabric-4.0.3"
+  },
+  {
+    "modid": "zenith",
+    "name": "Zenith",
+    "version": "1.2.5-1.20.1"
+  },
+  {
+    "modid": "zenith_attributes",
+    "name": "Zenith Attributes",
+    "version": "0.2.10"
+  }
+]
