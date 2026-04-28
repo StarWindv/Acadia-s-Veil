@@ -1,0 +1,276 @@
+{
+	"CONFIG": {
+		"advanced_sharpness": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"advanced_smite": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"advanced_bane_of_arthropods": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"advanced_mending": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"advanced_power": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"advanced_punch": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"advanced_unbreaking": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_flame": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"advanced_quick_charge": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_efficiency": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"advanced_fortune": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_looting": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_fire_aspect": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"advanced_knockback": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"advanced_sweeping_edge": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_lure": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_luck_of_the_sea": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_piercing": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"advanced_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"advanced_blast_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"advanced_fire_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"advanced_projectile_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"advanced_feather_falling": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"advanced_respiration": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_soul_speed": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_thorns": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_loyalty": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_multishot": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"advanced_aqua_affinity": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"advanced_frost_walker": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"advanced_depth_strider": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_riptide": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"advanced_impaling": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"advanced_channeling": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"supreme_sharpness": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"supreme_smite": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"supreme_bane_of_arthropods": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"supreme_mending": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"supreme_power": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"supreme_punch": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"supreme_unbreaking": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_flame": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"supreme_quick_charge": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_efficiency": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"supreme_fortune": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_looting": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_fire_aspect": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"supreme_knockback": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"supreme_sweeping_edge": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_lure": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_luck_of_the_sea": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_piercing": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"supreme_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"supreme_blast_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"supreme_fire_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"supreme_projectile_protection": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"supreme_feather_falling": {
+			"is_enabled": true,
+			"current_max_level": 4
+		},
+		"supreme_respiration": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_soul_speed": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_thorns": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_riptide": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_impaling": {
+			"is_enabled": true,
+			"current_max_level": 5
+		},
+		"supreme_channeling": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"supreme_multishot": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"supreme_loyalty": {
+			"is_enabled": true,
+			"current_max_level": 3
+		},
+		"supreme_aqua_affinity": {
+			"is_enabled": true,
+			"current_max_level": 1
+		},
+		"supreme_frost_walker": {
+			"is_enabled": true,
+			"current_max_level": 2
+		},
+		"supreme_depth_strider": {
+			"is_enabled": true,
+			"current_max_level": 3
+		}
+	}
+}
