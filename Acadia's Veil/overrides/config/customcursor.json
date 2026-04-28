@@ -1,0 +1,96 @@
+{
+  "settings": {
+    "size": 80,
+    "enabled": true,
+    "dynamicEnabled": true,
+    "arrow": {
+      "x": 0.0625,
+      "y": 0.0625,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "cursorfolder",
+        "field_13355": "d5053d24050e7239ba497fa08207ce42.png",
+        "cachedString": "cursorfolder:d5053d24050e7239ba497fa08207ce42.png"
+      }
+    },
+    "ibeam": {
+      "x": 0.5,
+      "y": 0.5,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "customcursor",
+        "field_13355": "cursors/ibeam.png"
+      }
+    },
+    "crosshair": {
+      "x": 0.5,
+      "y": 0.5,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "customcursor",
+        "field_13355": "cursors/crosshair.png"
+      }
+    },
+    "pointing_hand": {
+      "x": 0.375,
+      "y": 0.0,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "customcursor",
+        "field_13355": "cursors/pointing_hand.png"
+      }
+    },
+    "resize_ns": {
+      "x": 0.5,
+      "y": 0.5,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "customcursor",
+        "field_13355": "cursors/resize_ns.png"
+      }
+    },
+    "resize_ew": {
+      "x": 0.5,
+      "y": 0.5,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "customcursor",
+        "field_13355": "cursors/resize_ew.png"
+      }
+    },
+    "resize_all": {
+      "x": 0.5,
+      "y": 0.5,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "customcursor",
+        "field_13355": "cursors/resize_all.png"
+      }
+    },
+    "not_allowed": {
+      "x": 0.5,
+      "y": 0.5,
+      "rotation": 0.0,
+      "mirroredX": false,
+      "mirroredY": false,
+      "identifier": {
+        "field_13353": "minecraft",
+        "field_13355": "textures/item/barrier.png"
+      }
+    }
+  }
+}
