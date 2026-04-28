@@ -1,0 +1,6 @@
+*.mrpack
+*.zip
+
+.idea
+.vscode
+
