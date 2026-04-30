@@ -25,6 +25,26 @@
 				"Bon voyage！"
 			]
 			id: "2A8DB412B3089899"
+			rewards: [
+				{
+					id: "11475984458EB982"
+					item: "travelersbackpack:orange_sleeping_bag"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5505A79EF930A636"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:water"
+							Purity: 3
+						}
+					}
+					type: "item"
+				}
+			]
 			subtitle: "从阿卡狄亚某处醒来"
 			tasks: [{
 				dimension: "minecraft:overworld"

@@ -512,17 +512,6 @@
       "fileSize": 7442998
     },
     {
-      "path": "mods/lan-operators-1.20.1-1.0.1.jar",
-      "hashes": {
-        "sha1": "412e35715fc04b6cc8d44268fdbc4e2eda2732b7",
-        "sha512": "35035551e7fe0025372a8a8dcb2ca722b1f2ca630ae88e1524c850499e93e934bd1597f2f11c02c3f7b58a079a675027b17b46a5a0dd023c95fdc7732320fd18"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qjOfLjl2/versions/XRIo6Fy1/lan-operators-1.20.1-1.0.1.jar"
-      ],
-      "fileSize": 14269
-    },
-    {
       "path": "mods/letsdo-API-fabric-1.2.14-fabric.jar",
       "hashes": {
         "sha1": "047bc030f4e0ae40b1439fb33a852e44fbdcb505",
@@ -1194,17 +1183,6 @@
       "fileSize": 250298
     },
     {
-      "path": "mods/[均衡饮食] diet-fabric-2.1.1+1.20.1.jar",
-      "hashes": {
-        "sha1": "64095bba25206755c4bdaa85b1da4527268f99d8",
-        "sha512": "839bb29fbeab7301fa93115c19c4f6dc2fa20b49806eb21809f273f19eca0b22d35904cdaa741d81c5b61a4ca1bdc35ec712b42a2c12bc4e731b2f626c3fdca9"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/SsIkH9rZ/versions/ZHwy8qdO/diet-fabric-2.1.1%2B1.20.1.jar"
-      ],
-      "fileSize": 668271
-    },
-    {
       "path": "mods/[多元乐事（Fabric 版）] cultural-delights-fabric-1.0.5+1.20.1.jar",
       "hashes": {
         "sha1": "9301a8df3a5d2fd70092bfebe59131a68a756a11",
@@ -1524,6 +1502,17 @@
       "fileSize": 97597
     },
     {
+      "path": "mods/[更高级联机设置] mcwifipnp-1.7.6-1.20.1-fabric.jar",
+      "hashes": {
+        "sha1": "8d83e6ed7993af81b75abc12bd617fa587c4b163",
+        "sha512": "3cf8a4f6c75db8c13c59af3652d6bb1cfb7a8198ef808e498c59c147b1a337e9a82fde77cacb845a2311b12aedb5f8e8cd8725e764c1da27981abb5e008fe924"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RTWpcTBp/versions/azDO3k7E/mcwifipnp-1.7.6-1.20.1-fabric.jar"
+      ],
+      "fileSize": 82266
+    },
+    {
       "path": "mods/[末地：创世] fabric-end-remastered-5.2.4.jar",
       "hashes": {
         "sha1": "815834a73e893f6520ea2d12e6b1e3397a1b65b2",
@@ -1841,6 +1830,17 @@
         "https://cdn.modrinth.com/data/Eps2maQC/versions/6y3qBi1A/blockhighlight-1.20.1-2.5.jar"
       ],
       "fileSize": 274539
+    },
+    {
+      "path": "mods/[自定义窗口标题] CustomWindowTitle-Fabric-1.20+v1.2.0.jar",
+      "hashes": {
+        "sha1": "180625c304e4d660a08c4c97e5ca24b50622f282",
+        "sha512": "7c4692b673b6544e9d3757c5e27e8685bb0872ea89baab97e861cf99fceb85fd74f7a06017b577b8183960fa3ae4f4665a20f96bc8ffa683695967979ec7d441"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RGH5gtzF/versions/ueiehBDu/CustomWindowTitle-Fabric-1.20%2Bv1.2.0.jar"
+      ],
+      "fileSize": 15478
     },
     {
       "path": "mods/[自然主义] naturalist-5.0pre3+fabric-1.20.1.jar",

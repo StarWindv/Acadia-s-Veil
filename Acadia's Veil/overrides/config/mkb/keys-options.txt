@@ -50,7 +50,6 @@ key_key.clientsort.op.stackFill:key.keyboard.unknown:NONE
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown:NONE
 key_key.clientsort.op.transfer:key.keyboard.unknown:NONE
 key_key.configured.open_mod_list:key.keyboard.unknown:NONE
-key_key.diet.open.desc:key.keyboard.unknown:NONE
 key_key.diggusmaximus.keybind.excavate:key.mouse.4:NONE
 key_key.diggusmaximus.keybind.shapeexcavate:key.keyboard.unknown:NONE
 key_key.diggusmaximus.keybind.cycleshape:key.keyboard.unknown:NONE

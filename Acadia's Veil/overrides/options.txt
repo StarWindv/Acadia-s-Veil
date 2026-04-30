@@ -12,7 +12,7 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:false
+showSubtitles:true
 directionalAudio:false
 touchscreen:false
 fullscreen:false
@@ -72,10 +72,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:false
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -136,7 +136,6 @@ key_key.clientsort.op.stackFill:key.keyboard.unknown
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown
 key_key.clientsort.op.transfer:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.unknown
-key_key.diet.open.desc:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.extraalchemy.magnetism_toggle:key.keyboard.n
 key_key.extraalchemy.potion_bag_mode:key.keyboard.k

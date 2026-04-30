@@ -64,6 +64,9 @@
     "registry_name": "ADVANCED_TOOLTIPS",
     "mod_name": true
   },
+  "waystones": {
+    "waystone": true
+  },
   "iceandfire": {
     "multipart": true,
     "dragon": true

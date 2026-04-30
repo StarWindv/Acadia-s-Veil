@@ -580,9 +580,9 @@
     "version": "2.1.2"
   },
   {
-    "modid": "diet",
-    "name": "Diet",
-    "version": "2.1.1+1.20.1"
+    "modid": "customwindowtitle",
+    "name": "Custom Window Title",
+    "version": "1.2.0"
   },
   {
     "modid": "diggusmaximus",
@@ -970,11 +970,6 @@
     "version": "1.5.6-1.20"
   },
   {
-    "modid": "lanoperators",
-    "name": "LAN Operators",
-    "version": "1.20.1-1.0.1"
-  },
-  {
     "modid": "legendarytooltips",
     "name": "Legendary Tooltips",
     "version": "1.4.5"
@@ -1063,6 +1058,11 @@
     "modid": "mcwfurnitures",
     "name": "Macaw\u0027s Furniture",
     "version": "3.4.1"
+  },
+  {
+    "modid": "mcwifipnp",
+    "name": "LAN World Plug-n-Play",
+    "version": "1.7.6"
   },
   {
     "modid": "meadow",
@@ -1570,6 +1570,11 @@
     "version": "1.19.4-1.0.0"
   },
   {
+    "modid": "smsn",
+    "name": "Save My Shit Network",
+    "version": "1.4.1-1.20.1"
+  },
+  {
     "modid": "sodium",
     "name": "Sodium",
     "version": "0.5.13+mc1.20.1"
@@ -1583,11 +1588,6 @@
     "modid": "somanyenchantments",
     "name": "So Many Enchantments Mod",
     "version": "0.4.1"
-  },
-  {
-    "modid": "spectrelib",
-    "name": "SpectreLib",
-    "version": "0.13.14+1.20.1"
   },
   {
     "modid": "spoornpacks",
@@ -1733,6 +1733,11 @@
     "modid": "voxelmap",
     "name": "Voxelmap",
     "version": "1.20.1-1.12.13"
+  },
+  {
+    "modid": "waystones",
+    "name": "Waystones",
+    "version": "14.1.20"
   },
   {
     "modid": "wildernature",
