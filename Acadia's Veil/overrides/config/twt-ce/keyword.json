@@ -1,0 +1,13 @@
+{
+  "enableKeywordConfig": false,
+  "defaultDrinkHydration": 10,
+  "defaultDrinkQuenchness": 14,
+  "defaultSoupHydration": 4,
+  "defaultSoupQuenchness": 5,
+  "defaultFruitHydration": 2,
+  "defaultFruitQuenchness": 3,
+  "keywordBlacklist": "(?:\\b|[^a-zA-Z])(dried|candied|leaf|leaves|gummy|crate|jam|sauce|bucket|seed|cookie|pie|bush|sapling|bean|curry|cake|candy)(?:\\b|[^a-zA-Z])",
+  "keywordDrink": "(?:\\b|[^a-zA-Z])(drink|juice|tea|soda|coffee|wine|beer|cider|yogurt|milkshake|smoothie)(?:\\b|[^a-zA-Z])",
+  "keywordSoup": "(?:\\b|[^a-zA-Z])(soup|stew|porridge)(?:\\b|[^a-zA-Z])",
+  "keywordFruit": "(?:\\b|[^a-zA-Z])(fruit|berry|berries|grape|orange|peach|pear|coconut|lemon|melon|cherry|apple)(?:\\b|[^a-zA-Z])"
+}

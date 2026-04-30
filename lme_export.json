@@ -1640,11 +1640,6 @@
     "version": "7.0.1"
   },
   {
-    "modid": "thirsty",
-    "name": "Thirsty",
-    "version": "0.0.2"
-  },
-  {
     "modid": "tiered",
     "name": "Tiered",
     "version": "1.3.3"
@@ -1698,6 +1693,11 @@
     "modid": "tweakeroo",
     "name": "Tweakeroo",
     "version": "0.17.1"
+  },
+  {
+    "modid": "twt-ce",
+    "name": "Thirst Was Taken - Community Edition",
+    "version": "1.0.0"
   },
   {
     "modid": "u_sea",
