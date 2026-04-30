@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.2",
+  "versionId": "0.0.3",
   "name": "Acadia's Veil",
   "summary": "Acadia's Veil-fabric-1.20.1-0.0.2",
   "files": [
@@ -160,6 +160,17 @@
       "fileSize": 1324310
     },
     {
+      "path": "mods/clientsort-fabric-2.2.1+1.20.1.jar",
+      "hashes": {
+        "sha1": "de50d019ba670ec8591591826df267c59dfa7001",
+        "sha512": "f96d8fe3842695cd6253c98c3da060adc0666eca86af1b9aa0e4ed61733578a1f56c8c2bcb85478bb1026a165963b2d963cf72b88878e50f41f91645c93aa53d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/K0AkAin6/versions/76pu3UoS/clientsort-fabric-2.2.1%2B1.20.1.jar"
+      ],
+      "fileSize": 314152
+    },
+    {
       "path": "mods/cloth-config-11.1.136-fabric.jar",
       "hashes": {
         "sha1": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab",
@@ -226,6 +237,17 @@
       "fileSize": 673444
     },
     {
+      "path": "mods/customsusscreen-2.1.2.jar",
+      "hashes": {
+        "sha1": "03763d7087c468edb9329905ef41dafb77fef8e5",
+        "sha512": "755606d41a6af9f776f6522eb912a6d78aa8d2c906e673339cc1378c421cb2c915b8ec96ac2e30beabcbbafbe71fd6194c00a94b88f98509a371a5f519e027b0"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Rj8WdfVw/versions/A5WJ1nWU/customsusscreen-2.1.2.jar"
+      ],
+      "fileSize": 46062342
+    },
+    {
       "path": "mods/cwb-fabric-3.0.0+mc1.20.jar",
       "hashes": {
         "sha1": "e303bca92b0724f69ce3d8cdb500fb4040e7482f",
@@ -246,6 +268,17 @@
         "https://cdn.modrinth.com/data/qANg5Jrr/versions/9QMfnrh4/e4mc-fabric-6.1.0.jar"
       ],
       "fileSize": 646623
+    },
+    {
+      "path": "mods/earlyloadingscreen-mc1.20.1-0.1.5-all.jar",
+      "hashes": {
+        "sha1": "009096322caf7474a68e8b60662cd5ae449b496c",
+        "sha512": "eab7fc276786c02253aa35fefffae4fe2b792eca60fb10d79660b58697fe8b3d08972eb947f5439d714a0b79b96ac2fecb7100c7c9ba9f1d8987ba75f4d0c4c4"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/JVIyMkGt/versions/RtLPvt5z/earlyloadingscreen-mc1.20.1-0.1.5-all.jar"
+      ],
+      "fileSize": 434127
     },
     {
       "path": "mods/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar",
@@ -345,6 +378,28 @@
         "https://cdn.modrinth.com/data/ohNO6lps/versions/HvR3IdRE/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar"
       ],
       "fileSize": 396628
+    },
+    {
+      "path": "mods/formidablefarmland-1.0.2+1.20.1.jar",
+      "hashes": {
+        "sha1": "63ce04145e2c20997397678dadd815d5673a156b",
+        "sha512": "66b70fdc4b38d2ea3efe2e8d8dca7b288a5ad16d98c18b6ac82f7282559e5ea4caf5356f4b9bcbe1489bdd35ba8df9c07aac4be5d34c4b43d77e751cc2bbe3c7"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6KCFoYKV/versions/Doc1nCXO/formidablefarmland-1.0.2%2B1.20.1.jar"
+      ],
+      "fileSize": 14073
+    },
+    {
+      "path": "mods/FTBQuestsOptimizer-fabric-2.1.0-1.20.1.jar",
+      "hashes": {
+        "sha1": "e42c21ae02922c02f4fce2bb38819e5f4a2276ea",
+        "sha512": "7865de7509a6042d1b151fc0794e6b8f8b8a100d107ecbf7ce6f06bbb796d61c2448e31da499b72c149d87806e4f22a74e2c4acf053d1a5c7e00be10f1ac0895"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/oPwMsrcf/versions/VQWXw7hC/FTBQuestsOptimizer-fabric-2.1.0-1.20.1.jar"
+      ],
+      "fileSize": 12022
     },
     {
       "path": "mods/geckolib-fabric-1.20.1-4.8.3.jar",
@@ -842,6 +897,17 @@
       "fileSize": 1426500
     },
     {
+      "path": "mods/[FTB任务冻结修复] ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar",
+      "hashes": {
+        "sha1": "d140b498b1a5c13f740af480bd00d46e9651d98d",
+        "sha512": "1c1e69b80245db48a024f01bd9cc2a7477c6f75fae57fa37f5ee76bb2d8de37c7b7f0b41fd59bcc79803ba867418dd11e3095b8faaca34679a4daba5e9143a81"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6Z1o0Fxu/versions/BZH4ySKM/ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar"
+      ],
+      "fileSize": 163628
+    },
+    {
       "path": "mods/[Gugle的Carpet附加包] gugle-carpet-addition-mc1.20.1-v2.11.3+build.50.jar",
       "hashes": {
         "sha1": "a2849ccbd65534479b406ce56994017a4929716e",
@@ -952,6 +1018,17 @@
       "fileSize": 621495
     },
     {
+      "path": "mods/[YUNG的沙漠神殿优化] YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+      "hashes": {
+        "sha1": "b8de6410b1ae57a49848f172d5310dc79e731b25",
+        "sha512": "29839615e042435b0fdacab2b97524a6689190692a289c25e305dbaec34764f38e70c65cfd77b49ac0dcc549281b61cfe244edc62809082e39db54990ef84cbf"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XNlO7sBv/versions/1Z9HNWpj/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+      ],
+      "fileSize": 1063786
+    },
+    {
       "path": "mods/[万用皮肤补丁] CustomSkinLoader_Fabric-14.28.jar",
       "hashes": {
         "sha1": "243fdcc6ad067c3586805527fa64a6389cc4cbff",
@@ -1018,17 +1095,6 @@
       "fileSize": 57562
     },
     {
-      "path": "mods/[信息提示修复] tooltipfix-1.1.1-1.20.jar",
-      "hashes": {
-        "sha1": "de704792c691e3d19316c87c21c9ad2bee6c66c3",
-        "sha512": "75d85a093487ddd8c405cf7f8ce83cb3418ff7c2d3e6bf5aa38554d8bcf0ea45c87c88f3463a924e9cc8b5931d8b64f7be173efbd48ea7a0c150db95e1408f51"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar"
-      ],
-      "fileSize": 12432
-    },
-    {
       "path": "mods/[农夫乐事：重织] FarmersDelight-1.20.1-2.4.1+refabricated.jar",
       "hashes": {
         "sha1": "b8dded252730b2d47655813dde9d743785c0b107",
@@ -1084,6 +1150,28 @@
       "fileSize": 2291815
     },
     {
+      "path": "mods/[双人骑行：重铸] RidingPartners-fabric-1.20.1.jar",
+      "hashes": {
+        "sha1": "88a6ea5431557cf36aa9692a0f5d57f7672b7458",
+        "sha512": "6fd7d60b144a89b489b375f3bbfd8043828d6e285b0458f4b8b9cf250d15be46ac981a8f376ba376dea658b52d871d3244a95ca5babb99fc2355bea32d4020a7"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Kpxhlt9n/versions/MgLoqkpu/RidingPartners-fabric-1.20.1.jar"
+      ],
+      "fileSize": 10095
+    },
+    {
+      "path": "mods/[可合成的马铠和鞍] CHA-S-1.20-fabric.jar",
+      "hashes": {
+        "sha1": "1c16fc0f924ab5dc7faf6dde58a93d9a3db84156",
+        "sha512": "ebc50ff6d97340a687a213b415eb5d09699aeb3bae6008866a431685af09f49a57d0a0b85c5491f0600a8b15e5ed0c73adca8ac2cb50f6cc9d95d1d8517b4e33"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fExf3hZa/versions/FGcpE2Zb/CHA-S-1.20-fabric.jar"
+      ],
+      "fileSize": 39196
+    },
+    {
       "path": "mods/[地毯] fabric-carpet-1.20-1.4.112+v230608.jar",
       "hashes": {
         "sha1": "29faa4d1c22509b67a6d66b2a8c9d3b5aa483b65",
@@ -1104,6 +1192,17 @@
         "https://cdn.modrinth.com/data/ZsrrjDbP/versions/tTpWP44G/DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric.jar"
       ],
       "fileSize": 250298
+    },
+    {
+      "path": "mods/[均衡饮食] diet-fabric-2.1.1+1.20.1.jar",
+      "hashes": {
+        "sha1": "64095bba25206755c4bdaa85b1da4527268f99d8",
+        "sha512": "839bb29fbeab7301fa93115c19c4f6dc2fa20b49806eb21809f273f19eca0b22d35904cdaa741d81c5b61a4ca1bdc35ec712b42a2c12bc4e731b2f626c3fdca9"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SsIkH9rZ/versions/ZHwy8qdO/diet-fabric-2.1.1%2B1.20.1.jar"
+      ],
+      "fileSize": 668271
     },
     {
       "path": "mods/[多元乐事（Fabric 版）] cultural-delights-fabric-1.0.5+1.20.1.jar",
@@ -1148,6 +1247,17 @@
         "https://cdn.modrinth.com/data/FGlHZl7X/versions/9B9A85bd/tlc-fabric-1.20.X-1.2.0-eyeSpy.jar"
       ],
       "fileSize": 712243
+    },
+    {
+      "path": "mods/[失落配方] rotl-4.12-1.20.1-fabric.jar",
+      "hashes": {
+        "sha1": "0b1c131c81a6e416833d111cd003817566d2a808",
+        "sha512": "d4f6522be724572e91c53b0f8911ef2e5b09b1d51068178b96bb21cd57d2dfb10a830afa3a420bf1b029f371e34c51dd2d7c9997d6e3c3906a98029e75202e61"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/E46H9uq3/versions/4HWNMJk1/rotl-4.12-1.20.1-fabric.jar"
+      ],
+      "fileSize": 144003
     },
     {
       "path": "mods/[奇异饰品] artifacts-fabric-9.5.17.jar",
@@ -1656,6 +1766,17 @@
       "fileSize": 15366470
     },
     {
+      "path": "mods/[经验机制改革] Clumps-fabric-1.20.1-12.0.0.4.jar",
+      "hashes": {
+        "sha1": "a20cfe0b0ee0b897887f81c4919af9d220ba22e7",
+        "sha512": "2235d29b1239d5526035bffd547d35fe33b9e737d3e75cd341f6689d9cd834d0a7dc03ed80748772162cd9595ba08e7a0ab51221bc145a8fd979d596c3967544"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wnxd13zP/versions/hefSwtn6/Clumps-fabric-1.20.1-12.0.0.4.jar"
+      ],
+      "fileSize": 21987
+    },
+    {
       "path": "mods/[网络音乐机] netmusic-1.4.0-fabric+mc1.20.1.jar",
       "hashes": {
         "sha1": "5595a1b6eb49ad8c68dee0c42ad4ecc80eeb15c0",
@@ -1711,15 +1832,15 @@
       "fileSize": 122397
     },
     {
-      "path": "mods/[自定义唱片] AddurDisc-Fabric-1.20.x-1.3.jar",
+      "path": "mods/[自定义方块高亮] blockhighlight-1.20.1-2.5.jar",
       "hashes": {
-        "sha1": "7e5109d148250ef9e8db525fc28a8b6e36ebc679",
-        "sha512": "2dadab7667aa96fa29e24b25d63ab75f206f76e26784af03b0f6c01d2a49bb8b255b85a4bd744600e64159eadb7438b5780c290d526ccb8fe3cf28c7ef50c87e"
+        "sha1": "2b28451d42d576ccc44f56758d52c15b391e0543",
+        "sha512": "42cf2b511172d28d3f23c3fe3bce4d5a573d64ce5df780fc8b9603c15b3de5f0a9724df9718afa7ce869464e121b9dcf91d15a740c0153535b8b6fb5d94975c1"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gcH4oguI/versions/dpdcKAe3/AddurDisc-Fabric-1.20.x-1.3.jar"
+        "https://cdn.modrinth.com/data/Eps2maQC/versions/6y3qBi1A/blockhighlight-1.20.1-2.5.jar"
       ],
-      "fileSize": 238416
+      "fileSize": 274539
     },
     {
       "path": "mods/[自然主义] naturalist-5.0pre3+fabric-1.20.1.jar",
@@ -1942,15 +2063,15 @@
       "fileSize": 5182713
     },
     {
-      "path": "mods/[馥郁烘焙] letsdo-bakery-fabric-1.1.15.jar",
+      "path": "mods/[馥郁烘焙] letsdo-bakery-fabric-2.0.6.jar",
       "hashes": {
-        "sha1": "e48ea2a659e0f57a7d1b1cc055a1451bd354898f",
-        "sha512": "c66a30ca9c3d2ad3808bfb0b9e2258b2b7f417c9231fbaf95f8daa631331319dc5df2b47a14ebf0629b86599ffd2d9963a7436140d4336c0188ba9838199cdec"
+        "sha1": "203dd030920eda073520f0fe9c3de47259234480",
+        "sha512": "129d664e0e9e05eab2ea6e8aef27f7cf741ba419d90617e9943d2db254c73d549b0632a2ee821a3b80c4455d918773fc3becbb9019c2a572c9d727726de525ca"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/WFwYiVoG/versions/Fywe1lBT/letsdo-bakery-fabric-1.1.15.jar"
+        "https://cdn.modrinth.com/data/oNB5jhlA/versions/KEv4JeEB/letsdo-bakery-fabric-2.0.6.jar"
       ],
-      "fileSize": 1529233
+      "fileSize": 2236226
     },
     {
       "path": "mods/[骷髅 AI 修复] SkeletonAIFix-v20.1.1-1.20.1-Fabric.jar",
@@ -1973,6 +2094,17 @@
         "https://cdn.modrinth.com/data/mv1zH6ln/versions/3T2DRIfp/MagicLib-mc1.20.1-fabric-0.8.784-stable.jar"
       ],
       "fileSize": 1888526
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-fabric-mc1.20-2.26.jar",
+      "hashes": {
+        "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841",
+        "sha512": "d0faf200dda358efddad2d2809f646023f4dd06254572369e07f3bf33cb6941f0fcdb02db4675b30b4f3bd542cbf6196e135680ba91a2b74c2b071f34978e2d5"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabric-mc1.20-2.26.jar"
+      ],
+      "fileSize": 77943
     },
     {
       "path": "resourcepacks/Aimz - Better Crosshair.zip",

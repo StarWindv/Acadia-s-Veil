@@ -379,7 +379,7 @@
     "overlaySpawnableColumnHeights": false,
     "overlaySpawnChunkReal": false,
     "overlaySpawnChunkPlayer": false,
-    "overlayStructureMainToggle": false,
+    "overlayStructureMainToggle": true,
     "shapeRenderer": true,
     "debugChunkBorder": false,
     "debugChunkInfo": false,
@@ -573,9 +573,9 @@
     "Pillager Outpost": false,
     "Ruined Portal": false,
     "Shipwreck": false,
-    "Stronghold": true,
+    "Stronghold": false,
     "Village": false,
-    "Witch Hut": true,
+    "Witch Hut": false,
     "Unknown": false
   },
   "config_version": 1

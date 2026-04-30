@@ -1,0 +1,77 @@
+{
+	"visual": {
+		// Whether to show the AppleSkin-like Thirst HUD overlays on the screen.
+		"showHudOverlay": true,
+		// Whether to show AppleSkin-like thirst restoration values on item tooltips.
+		"showItemTooltips": true
+	},
+	"waterSource": {
+		// Chance (0.0 to 1.0) to gain the Thirst Effect from drinking directly from water sources.
+		"thirstChance": 1.0,
+		// Chance (0.0 to 1.0) to gain the Poison Effect from drinking directly from water sources.
+		"poisonChance": 0.10000000149011612
+	},
+	"canteen": {
+		// How much Thirst should Water Canteen items restore per use.
+		"thirstAmount": 9,
+		// How much Thirst Saturation should Water Canteen items restore per use.
+		"saturationAmount": 3,
+		// How much Thirst should DIRTY Water Canteen items restore per use.
+		"dirtyThirstAmount": 6,
+		// How much Thirst Saturation should DIRTY Water Canteen items restore per use.
+		"dirtySaturationAmount": 0,
+		// Chance (0.0 to 1.0) to gain the Thirst Effect from a DIRTY Water Canteen.
+		"dirtyThirstEffectChance": 0.30000001192092896,
+		// The duration of the Thirst Effect gained from a DIRTY Water Canteen in ticks (1sec = 20ticks).
+		"dirtyThirstEffectDurationTicks": 300,
+		// The amount of uses Water Canteen items should have.
+		"maxUses": 12
+	},
+	"waterItemSettings": {
+		// Chance (0.0 to 1.0) to gain the Thirst Effect from DIRTY Water Bowl items.
+		"waterBowlThirstEffectChance": 0.30000001192092896,
+		// The duration of the Thirst Effect gained from a DIRTY Water Bowl in ticks (1sec = 20ticks).
+		"waterBowlThirstEffectDurationTicks": 300,
+		// Chance (0.0 to 1.0) to gain the Thirst Effect from VANILLA Water Bottle items.
+		"waterBottleThirstEffectChance": 0.30000001192092896,
+		// The duration of the Thirst Effect gained from a VANILLA Water Bottle in ticks (1sec = 20ticks).
+		"waterBottleThirstEffectDurationTicks": 300
+	},
+	"customItems": [
+		{
+			"itemId": "minecraft:apple",
+			"thirst": 3,
+			"saturation": 1
+		},
+		{
+			"itemId": "minecraft:melon_slice",
+			"thirst": 1,
+			"saturation": 0
+		},
+		{
+			"itemId": "minecraft:sweet_berries",
+			"thirst": 1,
+			"saturation": 0
+		},
+		{
+			"itemId": "minecraft:milk_bucket",
+			"thirst": 6,
+			"saturation": 3
+		},
+		{
+			"itemId": "minecraft:potion",
+			"thirst": 3,
+			"saturation": 0
+		},
+		{
+			"itemId": "thirsty:water_bowl",
+			"thirst": 9,
+			"saturation": 0
+		},
+		{
+			"itemId": "thirsty:pure_water_bowl",
+			"thirst": 12,
+			"saturation": 5
+		}
+	]
+}

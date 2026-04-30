@@ -5,11 +5,6 @@
     "version": "1.7.6+1.20.1"
   },
   {
-    "modid": "addurdisc",
-    "name": "AddurDisc",
-    "version": "1.3"
-  },
-  {
     "modid": "ancientreforging",
     "name": "Ancient Reforging",
     "version": "1.3-fabric"
@@ -67,7 +62,7 @@
   {
     "modid": "bakery",
     "name": "[Let\u0027s Do] Bakery",
-    "version": "1.1.15"
+    "version": "2.0.6"
   },
   {
     "modid": "balancedrecipes",
@@ -103,6 +98,11 @@
     "modid": "bettercombat",
     "name": "Better Combat",
     "version": "1.9.0+1.20.1"
+  },
+  {
+    "modid": "betterdeserttemples",
+    "name": "YUNG\u0027s Better Desert Temples",
+    "version": "1.20-Fabric-3.0.3"
   },
   {
     "modid": "betterend",
@@ -148,6 +148,11 @@
     "modid": "biomesoplenty",
     "name": "BiomesOPlenty",
     "version": "19.0.0.96"
+  },
+  {
+    "modid": "blockhighlight",
+    "name": "Custom Block Highlight",
+    "version": "2.5"
   },
   {
     "modid": "blue_endless_jankson",
@@ -390,6 +395,11 @@
     "version": "1.6.2"
   },
   {
+    "modid": "chas",
+    "name": "Craftable Horse Armour \u0026 Saddle",
+    "version": "1.20"
+  },
+  {
     "modid": "chat_heads",
     "name": "Chat Heads",
     "version": "0.15.1"
@@ -410,6 +420,11 @@
     "version": "1.20.1-3.8"
   },
   {
+    "modid": "clientsort",
+    "name": "ClientSort",
+    "version": "2.2.1+1.20.1"
+  },
+  {
     "modid": "cloth-basic-math",
     "name": "cloth-basic-math",
     "version": "0.6.1"
@@ -418,6 +433,11 @@
     "modid": "cloth-config",
     "name": "Cloth Config v11",
     "version": "11.1.136"
+  },
+  {
+    "modid": "clumps",
+    "name": "Clumps",
+    "version": "12.0.0.4"
   },
   {
     "modid": "collective",
@@ -510,11 +530,6 @@
     "version": "12.0.2"
   },
   {
-    "modid": "crafttweaker",
-    "name": "CraftTweaker",
-    "version": "14.0.60"
-  },
-  {
     "modid": "cratedelight",
     "name": "Crate Delight",
     "version": "25.9.22-1.20-fabric"
@@ -560,6 +575,16 @@
     "version": "14.28"
   },
   {
+    "modid": "customsusscreen",
+    "name": "Custom Sus Screen",
+    "version": "2.1.2"
+  },
+  {
+    "modid": "diet",
+    "name": "Diet",
+    "version": "2.1.1+1.20.1"
+  },
+  {
     "modid": "diggusmaximus",
     "name": "Diggus Maximus",
     "version": "1.5.9-1.20"
@@ -583,6 +608,11 @@
     "modid": "e4mc",
     "name": "e4mc",
     "version": "6.1.0"
+  },
+  {
+    "modid": "earlyloadingscreen",
+    "name": "Early Loading Screen",
+    "version": "0.1.5"
   },
   {
     "modid": "easyplacefix",
@@ -740,9 +770,39 @@
     "version": "8.0.3"
   },
   {
+    "modid": "formidablefarmland",
+    "name": "FormidableFarmland",
+    "version": "1.0.2+1.20.1"
+  },
+  {
     "modid": "framework",
     "name": "Framework",
     "version": "0.8.0"
+  },
+  {
+    "modid": "ftblibrary",
+    "name": "FTB Library",
+    "version": "2001.2.12"
+  },
+  {
+    "modid": "ftbqoptimizer",
+    "name": "FTBQuestsOptimizer",
+    "version": "2.1.0-1.20.1"
+  },
+  {
+    "modid": "ftbquests",
+    "name": "FTB Quests",
+    "version": "2001.4.21"
+  },
+  {
+    "modid": "ftbquestsfreezefix",
+    "name": "FTB Quests Freeze Fix",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "ftbteams",
+    "name": "FTB Teams",
+    "version": "2001.3.2"
   },
   {
     "modid": "gammautils",
@@ -763,6 +823,11 @@
     "modid": "glitchcore",
     "name": "GlitchCore",
     "version": "0.0.1.1"
+  },
+  {
+    "modid": "gobber2",
+    "name": "Gobber2",
+    "version": "2.9.5"
   },
   {
     "modid": "goblintraders",
@@ -828,11 +893,6 @@
     "modid": "infinityandmending",
     "name": "Infinity and Mending",
     "version": "1.20.x-1.0.0"
-  },
-  {
-    "modid": "initialinventory",
-    "name": "Initial Inventory",
-    "version": "11.0.2"
   },
   {
     "modid": "io_github_douira_glsl-transformer",
@@ -1068,6 +1128,11 @@
     "modid": "moredelight",
     "name": "More Delight",
     "version": "25.7.28-1.20-fabric"
+  },
+  {
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.26"
   },
   {
     "modid": "mr_iceandfire_smithing",
@@ -1405,6 +1470,11 @@
     "version": "1.0.5"
   },
   {
+    "modid": "pugh_tools",
+    "name": "Pugh Tools",
+    "version": "1.6.1"
+  },
+  {
     "modid": "puzzlesaccessapi",
     "name": "Puzzles Access Api",
     "version": "20.1.1"
@@ -1433,6 +1503,11 @@
     "modid": "reeses-sodium-options",
     "name": "Reese\u0027s Sodium Options",
     "version": "1.7.2+mc1.20.1-build.101"
+  },
+  {
+    "modid": "riding_partners",
+    "name": "Riding Partners",
+    "version": "1.0.0"
   },
   {
     "modid": "roughlyenoughitems",
@@ -1510,6 +1585,11 @@
     "version": "0.4.1"
   },
   {
+    "modid": "spectrelib",
+    "name": "SpectreLib",
+    "version": "0.13.14+1.20.1"
+  },
+  {
     "modid": "spoornpacks",
     "name": "SpoornPacks",
     "version": "5.0-1.20.1"
@@ -1518,6 +1598,11 @@
     "modid": "spruceui",
     "name": "SpruceUI",
     "version": "5.0.0+1.20"
+  },
+  {
+    "modid": "starterkit",
+    "name": "Starter Kit",
+    "version": "7.4"
   },
   {
     "modid": "step-height-entity-attribute",
@@ -1542,7 +1627,7 @@
   {
     "modid": "team_reborn_energy",
     "name": "Energy",
-    "version": "2.3.0"
+    "version": "3.0.0"
   },
   {
     "modid": "terrablender",
@@ -1555,6 +1640,11 @@
     "version": "7.0.1"
   },
   {
+    "modid": "thirsty",
+    "name": "Thirsty",
+    "version": "0.0.2"
+  },
+  {
     "modid": "tiered",
     "name": "Tiered",
     "version": "1.3.3"
@@ -1563,11 +1653,6 @@
     "modid": "tlc",
     "name": "The Lost Castle",
     "version": "1.2.0"
-  },
-  {
-    "modid": "tooltipfix",
-    "name": "ToolTip Fix",
-    "version": "1.1.1-1.20"
   },
   {
     "modid": "tp_not_need_to_permission",
@@ -1623,6 +1708,11 @@
     "modid": "ubesdelight",
     "name": "Ube\u0027s Delight",
     "version": "0.4.11"
+  },
+  {
+    "modid": "uncraftable",
+    "name": "Recipes of the Lost",
+    "version": "4.12"
   },
   {
     "modid": "uranus",

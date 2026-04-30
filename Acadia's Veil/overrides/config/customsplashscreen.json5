@@ -1,0 +1,18 @@
+{
+	// Change the type of logo RESTART
+	"logoType": "Animated",
+	// Increases minecraft startup time, but don't need to restart after changing Anim Speed.
+	"loadUnusedFrames": false,
+	// Each render advances current frame by this/10. RESTART
+	"animSpeed": 30,
+	// anim with 100 frames, at 50% load, and this at 20, pauses on frame 70. 
+	"framesAhead": 83,
+	// Toggle progress bar
+	"progressBar": true,
+	// Change the color of the background
+	"backgroundColor": 15675965,
+	// Change the color of the progress bar
+	"progressBarColor": 16777215,
+	// Change the color of the progress bar frame
+	"progressFrameColor": 16777215
+}

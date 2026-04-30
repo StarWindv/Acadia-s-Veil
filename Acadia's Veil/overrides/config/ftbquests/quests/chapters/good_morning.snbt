@@ -1,0 +1,230 @@
+{
+	autofocus_id: "4FFFDC3A9373F66A"
+	consume_items: false
+	default_hide_dependency_lines: false
+	default_quest_shape: "none"
+	filename: "good_morning"
+	group: "153AE82A2CAF0A18"
+	icon: "bakery:toast"
+	id: "245E8C352DA0C5ED"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"第一次来到阿卡狄亚?"
+				""
+				"不用紧张"
+				""
+				"不要害怕"
+				""
+				"享受这片宁静"
+				""
+				"探索大地的故事"
+				""
+				"Bon voyage！"
+			]
+			id: "2A8DB412B3089899"
+			subtitle: "从阿卡狄亚某处醒来"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "bakery:apple_pie"
+				id: "5A3FF38917ACF896"
+				title: "你好, 世界"
+				type: "dimension"
+			}]
+			title: "Bon voyage！"
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["32F39D37DA5D5692"]
+			dependency_requirement: "one_completed"
+			description: [
+				"禾下乘凉梦"
+				""
+				"十里稻花香"
+			]
+			hide_dependency_lines: false
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			icon: "farmersdelight:rice_panicle"
+			id: "0AAE8AF903AE9878"
+			invisible: true
+			min_required_dependencies: 1
+			optional: true
+			progression_mode: "linear"
+			require_sequential_tasks: true
+			rewards: [{
+				id: "5EC36CC541345AF0"
+				item: "farmersdelight:rice_bag"
+				type: "item"
+			}]
+			subtitle: "粒粒皆辛苦"
+			tasks: [{
+				id: "29110934AAA4714B"
+				item: "farmersdelight:rice_panicle"
+				type: "item"
+			}]
+			title: "禾下乘凉梦"
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2A8DB412B3089899"]
+			description: [
+				"好像写了什么?"
+				""
+				"总之不打扰我种地"
+			]
+			hide_dependency_lines: false
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: true
+			id: "4FFFDC3A9373F66A"
+			invisible: true
+			optional: true
+			progression_mode: "linear"
+			require_sequential_tasks: true
+			rewards: [{
+				count: 3
+				id: "2D18E57CD572290F"
+				item: "minecraft:experience_bottle"
+				type: "item"
+			}]
+			subtitle: "推开世界的门"
+			tasks: [{
+				id: "4F342BB947A02C8E"
+				item: "iceandfire:manuscript"
+				type: "item"
+			}]
+			title: "谁人的手稿"
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2A8DB412B3089899"]
+			id: "5437497D6555C58B"
+			invisible: true
+			rewards: [{
+				count: 3
+				id: "7AE73102E946A371"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			subtitle: "发现天穹之上的村庄"
+			tasks: [{
+				icon: "artifacts:cloud_in_a_bottle"
+				id: "373128D6A02B99FA"
+				structure: "skyvillages:skyvillage"
+				title: "世外桃源"
+				type: "structure"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"5437497D6555C58B"
+				"4E52BF97D106321B"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: false
+			id: "67B79751516C0052"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "5F601DCCE8313187"
+				item: "minecraft:hopper"
+				type: "item"
+			}]
+			subtitle: "手动挖矿是极其不健康的…"
+			tasks: [{
+				entity: "minecraft:iron_golem"
+				id: "5D2AAC2A1D0BE214"
+				title: "白色僵尸！"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2A8DB412B3089899"]
+			icon: "artifacts:villager_hat"
+			id: "4E52BF97D106321B"
+			rewards: [{
+				count: 3
+				id: "373656A0341A2DAF"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			subtitle: "观察一个村民"
+			tasks: [{
+				id: "44687EF5CDCF801F"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:villager"
+				type: "observation"
+			}]
+			title: "那是村民吗？"
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4FFFDC3A9373F66A"]
+			id: "169AAE763AA719B5"
+			optional: true
+			progression_mode: "linear"
+			tasks: [{
+				id: "10509E69D534EC2B"
+				item: "iceandfire:bestiary"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2A8DB412B3089899"]
+			disable_toast: true
+			id: "32F39D37DA5D5692"
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_seed"
+				criterion: ""
+				disable_toast: true
+				id: "679F6B4F351E8676"
+				title: "[PRE] 民以食为天"
+				type: "advancement"
+			}]
+			title: "开荒垦地"
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["32F39D37DA5D5692"]
+			id: "2867B50BA121F116"
+			rewards: [{
+				count: 3
+				id: "35824E6B58A6D61E"
+				item: "minecraft:hay_block"
+				type: "item"
+			}]
+			subtitle: "当思来之不易"
+			tasks: [{
+				id: "0F49E77C1FE2F4DE"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			title: "民以食为天"
+			x: -7.0d
+			y: -4.0d
+		}
+	]
+	require_sequential_tasks: true
+	subtitle: ["在阿卡狄亚醒来"]
+	title: "Good Morning"
+}

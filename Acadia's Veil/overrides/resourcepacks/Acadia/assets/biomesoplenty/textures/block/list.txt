@@ -1,0 +1,60 @@
+ - Stripped: 去皮木
+
+Completed:
+├── dead_log.png
+├── dead_log_top.png
+├── empyreal_log_top.png
+├── willow_log.png
+└── willow_log_top.png
+
+
+TODO:
+├── empyreal_log.png
+├── fir_log.png
+├── fir_log_top.png
+├── hellbark_log.png
+├── hellbark_log_top.png
+├── jacaranda_log.png
+├── jacaranda_log_top.png
+├── magic_log.png
+├── magic_log_top.png
+├── mahogany_log.png
+├── mahogany_log_top.png
+├── maple_log.png
+├── maple_log_top.png
+├── palm_log.png
+├── palm_log_top.png
+├── pine_log.png
+├── pine_log_knot.png
+├── pine_log_top.png
+├── redwood_log.png
+├── redwood_log_top.png
+├── stripped_dead_log.png
+├── stripped_dead_log_top.png
+├── stripped_empyreal_log.png
+├── stripped_empyreal_log_top.png
+├── stripped_fir_log.png
+├── stripped_fir_log_top.png
+├── stripped_hellbark_log.png
+├── stripped_hellbark_log_top.png
+├── stripped_jacaranda_log.png
+├── stripped_jacaranda_log_top.png
+├── stripped_magic_log.png
+├── stripped_magic_log_top.png
+├── stripped_mahogany_log.png
+├── stripped_mahogany_log_top.png
+├── stripped_maple_log.png
+├── stripped_maple_log_top.png
+├── stripped_palm_log.png
+├── stripped_palm_log_top.png
+├── stripped_pine_log.png
+├── stripped_pine_log_top.png
+├── stripped_redwood_log.png
+├── stripped_redwood_log_top.png
+├── stripped_umbran_log.png
+├── stripped_umbran_log_top.png
+├── stripped_willow_log.png
+├── stripped_willow_log_top.png
+├── umbran_log.png
+├── umbran_log_holes.png
+└── umbran_log_top.png
