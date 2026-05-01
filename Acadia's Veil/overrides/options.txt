@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","spoornpacks","fabric","file/Better+Lanterns+v1.2(mc-1.20.1).zip","file/Faithful 64x - Beta 9.zip","file/Low Shield.zip","file/LowOnFire_1.20.1.zip","file/No Pumpkin Blur 1.2.zip","file/RAYs_3D_Ladders_v2.0.zip","file/RAYs_3D_Rails_v3.0.zip","file/§3Fresh §bFlower Pots.zip","minecraft:udpresencefootsteps","vinery:bushy_leaves","file/Default-Dark-Mode-1.20-2023.7.0.zip","clientsort:clientsort-dark-mode","file/Acadia"]
-incompatibleResourcePacks:["file/No Pumpkin Blur 1.2.zip","file/RAYs_3D_Ladders_v2.0.zip","file/RAYs_3D_Rails_v3.0.zip"]
+resourcePacks:["create:dynamic_data","vanilla","spoornpacks","fabric","file/Faithful 64x - Beta 9.zip","file/Low Shield.zip","file/LowOnFire_1.20.1.zip","file/No Pumpkin Blur 1.2.zip","file/RAYs_3D_Ladders_v2.0.zip","file/RAYs_3D_Rails_v3.0.zip","file/§3Fresh §bFlower Pots.zip","minecraft:udpresencefootsteps","vinery:bushy_leaves","file/3D Lantern.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","clientsort:clientsort-dark-mode","file/Acadia"]
+incompatibleResourcePacks:["file/No Pumpkin Blur 1.2.zip","file/RAYs_3D_Ladders_v2.0.zip","file/RAYs_3D_Rails_v3.0.zip","file/3D Lantern.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""

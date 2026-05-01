@@ -9,42 +9,265 @@
 	id: "55E767D085B5F268"
 	order_index: 1
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["169AAE763AA719B5"]
-		hide_until_deps_complete: true
-		id: "27B0251FB1FEA190"
-		rewards: [
-			{
-				id: "4FE3514C1A333BB0"
-				item: "minecraft:enchanted_golden_apple"
-				type: "item"
-			}
-			{
-				id: "255B225106695FDB"
-				item: {
-					Count: 1
-					id: "zenith:potion_charm"
-					tag: {
-						Damage: 0
-						Potion: "minecraft:long_fire_resistance"
-					}
+	quests: [
+		{
+			dependencies: ["2A55385210CC5E20"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "27B0251FB1FEA190"
+			rewards: [
+				{
+					id: "4FE3514C1A333BB0"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
 				}
+				{
+					id: "255B225106695FDB"
+					item: {
+						Count: 1
+						id: "zenith:potion_charm"
+						tag: {
+							Damage: 0
+							Potion: "minecraft:long_fire_resistance"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "第一次见到火龙"
+			tasks: [{
+				icon: "iceandfire:fire_dragon_heart"
+				id: "54683F6AA1CC084A"
+				observe_type: 5
+				timer: 0L
+				title: "那是...龙?"
+				to_observe: "iceandfire:fire_dragon"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2A55385210CC5E20"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "225FE69D189438E8"
+			rewards: [
+				{
+					id: "2EA987D5314F683E"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "42748FAF1F31FFED"
+					item: "iceandfire:cooked_rice_with_ice_dragon_meat"
+					type: "item"
+				}
+			]
+			subtitle: "第一次见到冰龙"
+			tasks: [{
+				icon: "iceandfire:ice_dragon_heart"
+				id: "27690B655C7E996B"
+				observe_type: 5
+				timer: 0L
+				title: "那是...龙?"
+				to_observe: "iceandfire:ice_dragon"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2A55385210CC5E20"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "5AFB5898DF46025C"
+			rewards: [
+				{
+					id: "1ED2F11701FBDB4B"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "683A22516034B127"
+					item: "iceandfire:cooked_rice_with_lightning_dragon_meat"
+					type: "item"
+				}
+			]
+			subtitle: "第一次见到电龙"
+			tasks: [{
+				icon: "iceandfire:lightning_dragon_heart"
+				id: "309ABEAE2798661B"
+				observe_type: 5
+				timer: 0L
+				title: "那是...龙?"
+				to_observe: "iceandfire:lightning_dragon"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			id: "3FDE2245DD354AD0"
+			rewards: [{
+				count: 3
+				id: "3C0712BE7EE6956A"
+				item: "iceandfire:dragon_meal"
 				type: "item"
-			}
-		]
-		subtitle: "第一次见到火龙"
-		tasks: [{
-			icon: "iceandfire:fire_dragon_heart"
-			id: "54683F6AA1CC084A"
-			observe_type: 5
-			timer: 0L
-			title: "那是...龙?"
-			to_observe: "iceandfire:fire_dragon"
-			type: "observation"
-		}]
-		x: -2.0d
-		y: -0.5d
-	}]
+			}]
+			tasks: [{
+				id: "1A9748AAB2434E59"
+				item: "iceandfire:dragon_stick"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"225FE69D189438E8"
+				"5AFB5898DF46025C"
+				"27B0251FB1FEA190"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_visible: true
+			id: "6097442A30C668DE"
+			subtitle: "获得龙骨"
+			tasks: [{
+				id: "456F029331D06154"
+				item: "iceandfire:dragonbone"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["225FE69D189438E8"]
+			id: "7A5DA0401B69D47F"
+			invisible: true
+			rewards: [
+				{
+					count: 3
+					id: "434ADB20E8E67612"
+					item: "iceandfire:ice_dragon_flesh"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "76F423051E87E7AB"
+					item: "iceandfire:ice_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "4B3BB1D8610B5237"
+					item: "iceandfire:ice_dragon_heart"
+					type: "item"
+				}
+				{
+					id: "5E61855400B28D74"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "19C97A19DDB9FEEA"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:ice_dragon_flesh"
+				id: "4083F7B64F104892"
+				optional_task: true
+				type: "kill"
+				value: 1L
+			}]
+			title: "屠龙勇士"
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["27B0251FB1FEA190"]
+			id: "7F1877A42CD39E8E"
+			invisible: true
+			rewards: [
+				{
+					count: 3
+					id: "4A036D7A9ED404D5"
+					item: "iceandfire:fire_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "45075779B28475B4"
+					item: "iceandfire:fire_dragon_heart"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "115FAC858A4217B1"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "240EAF7D52570C64"
+					item: "iceandfire:fire_dragon_flesh"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:fire_dragon_flesh"
+				id: "04E78A052E50596F"
+				title: "屠龙勇士"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5AFB5898DF46025C"]
+			id: "7FAE64C7CCD14D94"
+			invisible: true
+			rewards: [
+				{
+					count: 3
+					id: "7775FA6F482495E9"
+					item: "iceandfire:lightning_dragon_flesh"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "028455D23F945DAB"
+					item: "iceandfire:lightning_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "59F9EF3F74ACF74F"
+					item: "iceandfire:lightning_dragon_heart"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "736EA7EEEB4D8243"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:lightning_dragon_flesh"
+				id: "360C45CE56D44F7B"
+				title: "屠龙勇士"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+	]
 	subtitle: ["龙之诗"]
 	title: "巨龙与城邦 !"
 }

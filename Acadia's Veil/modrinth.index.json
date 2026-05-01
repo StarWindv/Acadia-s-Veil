@@ -1909,6 +1909,17 @@
       "fileSize": 3043160
     },
     {
+      "path": "mods/[蛋糕乐事] CakeDelight-fabric-1.20.1-v3.1.0.jar",
+      "hashes": {
+        "sha1": "a224893ecb71c93836810d193fddc43f82783732",
+        "sha512": "09edd07967c03f65dff65a716caa252dea168b438db1f7bb2b3173dc6c7f9c921245f14b07e4bdf57fae814b62e3836aac597c0f547d46c534c6d38c99a0b490"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7bUTRQPV/versions/GuKIm6F5/CakeDelight-fabric-1.20.1-v3.1.0.jar"
+      ],
+      "fileSize": 177488
+    },
+    {
       "path": "mods/[装箱乐事] cratedelight-25.09.22-1.20-fabric.jar",
       "hashes": {
         "sha1": "1f6ab7a5ffce24e5c99b2548baac9a4dc0d3496b",
@@ -2151,6 +2162,17 @@
       "fileSize": 77943
     },
     {
+      "path": "resourcepacks/3D Lantern.zip",
+      "hashes": {
+        "sha1": "2d07c5449234a23a4b5b019ebdd94b5b98d89e43",
+        "sha512": "159939510c32a037adb36651add3721cdbc88867456a3141b6cd3ff4d22ec5f49702e12644d54ce06c59912ace4c97be6f2f5ce37e85a1ffe91729ac07342154"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/q1I7eVTa/versions/jAH7tBLl/3D%20Lantern.zip"
+      ],
+      "fileSize": 190486
+    },
+    {
       "path": "resourcepacks/Aimz - Better Crosshair.zip",
       "hashes": {
         "sha1": "7992e56ad666d830c43cb3ec5a08c0d089917ada",
@@ -2160,17 +2182,6 @@
         "https://cdn.modrinth.com/data/wmXxr9ku/versions/dXukMYIz/Aimz%20-%20Better%20Crosshair.zip"
       ],
       "fileSize": 15407
-    },
-    {
-      "path": "resourcepacks/Better+Lanterns+v1.2(mc-1.20.1).zip",
-      "hashes": {
-        "sha1": "705b7fa82c39ff568f0b2ea4ebebe71ce2c9be19",
-        "sha512": "10e2ddfd29e4e0e5ac1fcab2672f554a67c8656b97e9cb9d90ef120fd5cfb76f616883caa7b8377d176ebcdb9a7324a3eefa35b3f40d17aa2b4f8f666fc01ec9"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/PGGrfcvL/versions/xuTH8Cj3/Better%2BLanterns%2Bv1.2%28mc-1.20.1%29.zip"
-      ],
-      "fileSize": 51369
     },
     {
       "path": "resourcepacks/Default-Dark-Mode-1.20-2023.7.0.zip",

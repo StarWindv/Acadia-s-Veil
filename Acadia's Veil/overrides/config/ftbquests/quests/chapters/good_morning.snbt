@@ -44,6 +44,38 @@
 					}
 					type: "item"
 				}
+				{
+					id: "02215970E6B4B7BA"
+					item: "bakery:vegetable_sandwich"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "204DED5850F46976"
+					item: "barbequesdelight:grilled_lamb_skewer"
+					type: "item"
+				}
+				{
+					id: "0A34BBD78D1E2705"
+					item: {
+						Count: 1
+						id: "travelersbackpack:standard"
+						tag: {
+							StarterUpgrades: {
+								Items: [{
+									Count: 1b
+									id: "travelersbackpack:tanks_upgrade"
+								}]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4AFE5D7B3F2A8F52"
+					item: "minecraft:lantern"
+					type: "item"
+				}
 			]
 			subtitle: "从阿卡狄亚某处醒来"
 			tasks: [{
@@ -58,7 +90,10 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["32F39D37DA5D5692"]
+			dependencies: [
+				"32F39D37DA5D5692"
+				"2A8DB412B3089899"
+			]
 			dependency_requirement: "one_completed"
 			description: [
 				"禾下乘凉梦"
@@ -89,8 +124,8 @@
 				type: "item"
 			}]
 			title: "禾下乘凉梦"
-			x: -5.0d
-			y: -4.0d
+			x: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2A8DB412B3089899"]
@@ -195,23 +230,10 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: false
-			dependencies: ["4FFFDC3A9373F66A"]
-			id: "169AAE763AA719B5"
-			optional: true
-			progression_mode: "linear"
-			tasks: [{
-				id: "10509E69D534EC2B"
-				item: "iceandfire:bestiary"
-				type: "item"
-			}]
-			x: -2.5d
-			y: -2.0d
-		}
-		{
 			dependencies: ["2A8DB412B3089899"]
 			disable_toast: true
 			id: "32F39D37DA5D5692"
+			subtitle: "民以食为天"
 			tasks: [{
 				advancement: "minecraft:husbandry/plant_seed"
 				criterion: ""
@@ -240,8 +262,22 @@
 				type: "item"
 			}]
 			title: "民以食为天"
-			x: -7.0d
+			x: -6.0d
 			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4FFFDC3A9373F66A"]
+			id: "2A55385210CC5E20"
+			tasks: [{
+				advancement: "iceandfire:iceandfire/bestiary"
+				criterion: ""
+				id: "23199BE027B05988"
+				title: "异兽手记"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -2.0d
 		}
 	]
 	require_sequential_tasks: true
