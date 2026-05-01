@@ -5,6 +5,11 @@
     "version": "1.7.6+1.20.1"
   },
   {
+    "modid": "alwayshungry",
+    "name": "Always Hungry",
+    "version": "1.0.2"
+  },
+  {
     "modid": "ancientreforging",
     "name": "Ancient Reforging",
     "version": "1.3-fabric"
@@ -58,6 +63,11 @@
     "modid": "autotag-convention",
     "name": "AutoTag Convention",
     "version": "2.0.2+1.20"
+  },
+  {
+    "modid": "axiom",
+    "name": "Axiom",
+    "version": "5.4.1"
   },
   {
     "modid": "bakery",
@@ -493,6 +503,16 @@
     "modid": "com_ibm_async_asyncutil",
     "name": "asyncutil",
     "version": "0.1.0"
+  },
+  {
+    "modid": "com_moulberry_axiomclientapi",
+    "name": "axiomclientapi",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "com_moulberry_mixinconstraints",
+    "name": "mixinconstraints",
+    "version": "1.0.9"
   },
   {
     "modid": "com_twelvemonkeys_common_common-image",
@@ -1015,6 +1035,11 @@
     "version": "1.5.6-1.20"
   },
   {
+    "modid": "lattice",
+    "name": "Lattice",
+    "version": "1.3.0"
+  },
+  {
     "modid": "legendarytooltips",
     "name": "Legendary Tooltips",
     "version": "1.4.5"
@@ -1243,11 +1268,6 @@
     "modid": "notenoughcrashes",
     "name": "Not Enough Crashes",
     "version": "4.4.9+1.20.1"
-  },
-  {
-    "modid": "nutritionz",
-    "name": "NutritionZ",
-    "version": "1.0.12"
   },
   {
     "modid": "obscure_api",
@@ -1678,6 +1698,11 @@
     "modid": "sodium-extra",
     "name": "Sodium Extra",
     "version": "0.5.9+mc1.20.1"
+  },
+  {
+    "modid": "solclassic",
+    "name": "Spice of Life: Classic Edition",
+    "version": "2.11"
   },
   {
     "modid": "somanyenchantments",

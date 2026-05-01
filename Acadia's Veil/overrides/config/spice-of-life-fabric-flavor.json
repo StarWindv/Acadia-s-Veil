@@ -1,0 +1,15 @@
+{
+  "healthy": {
+    "maxHealthy": 240
+  },
+  "features": {
+    "healthyGain": 2,
+    "Increasefrequency": 0,
+    "frequencyGain": 2,
+    "resetOnDeath": false,
+    "developerMode": false,
+    "healthToMaxOnIncrease": true,
+    "healthIncreaseOnIncrease": 0,
+    "Expression": "0"
+  }
+}

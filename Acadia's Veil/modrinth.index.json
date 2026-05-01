@@ -50,6 +50,17 @@
       "fileSize": 7022
     },
     {
+      "path": "mods/Axiom-5.4.1-for-MC1.20.1.jar",
+      "hashes": {
+        "sha1": "759aa33a54293001cc300f64792e014c3ea165ca",
+        "sha512": "8e0504f04fa37e94d7643ef659a20c2232170f27977a589f37a83b4d2d326f31d66572254763559f69e6843e8c34480c7038508b1a32eae0121ed02e80146602"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/N6n5dqoA/versions/RCuHxVTQ/Axiom-5.4.1-for-MC1.20.1.jar"
+      ],
+      "fileSize": 47029593
+    },
+    {
       "path": "mods/bclib-3.0.14.jar",
       "hashes": {
         "sha1": "34be724165bfe1207542f26551b10925d099eee1",
@@ -631,17 +642,6 @@
         "https://cdn.modrinth.com/data/yM94ont6/versions/dgolg36A/notenoughcrashes-4.4.9%2B1.20.1-fabric.jar"
       ],
       "fileSize": 138548
-    },
-    {
-      "path": "mods/nutritionz-1.0.12.jar",
-      "hashes": {
-        "sha1": "a55a163df323c21e4cb0e12a7b2960bbc7f1c11c",
-        "sha512": "2571283f86df92564fe54ada060c1583125eb03d4e0210ab97498e3c5ed091423c709519f2aa0e37f6e27b31309d5d01c832359d2db52763fd287844047b7dbb"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/9IASI8W8/versions/dCQC1z0w/nutritionz-1.0.12.jar"
-      ],
-      "fileSize": 149705
     },
     {
       "path": "mods/Obscure-API-16.jar",
@@ -1753,6 +1753,17 @@
         "https://cdn.modrinth.com/data/rQszQPD2/versions/OFIAZVy7/ModernKeyBinding-Fabric-1.20-1.2.0.jar"
       ],
       "fileSize": 57898
+    },
+    {
+      "path": "mods/[生活调味料：经典版] spiceoflife_classic-fabric-2.11.jar",
+      "hashes": {
+        "sha1": "9006e776a7045c604bd72e3ec1ddca3d95ed8217",
+        "sha512": "cc925a3ff2647207338ef2790a9bbd9197113ca035c038906dbac571d9d831a0a486b0419163819a22941ef217faae829605ea46f87550c3623ee108530158ab"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Utos7Mlk/versions/WR6iu5PW/spiceoflife_classic-fabric-2.11.jar"
+      ],
+      "fileSize": 918338
     },
     {
       "path": "mods/[祸乱鬼魅] BOMD-1.7.5-1.20.1.jar",
