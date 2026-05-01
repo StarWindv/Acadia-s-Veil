@@ -156,19 +156,21 @@ max_lines = 4
 	[components.durability]
 		#Should this tooltip component be included when rendering held item tooltips.
 		include = true
-		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
-		#Range: > -2147483648
-		priority = 80
-		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
-		advanced_tooltips = false
 		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
 		#Range: > -2147483648
 		ordering = 80
 		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
 		respect_hide_flags = true
+		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
+		#Range: > -2147483648
+		priority = 80
+		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
+		advanced_tooltips = false
 
 		#Text formatting settings for this component's text appearance.
 		[components.durability.formatting]
+			#Should the text in this component appear with an underline.
+			underline = false
 			#Should the text in this component appear bold.
 			bold = false
 			#Should the text in this component appear struck-through.
@@ -179,120 +181,27 @@ max_lines = 4
 			text_color = "default"
 			#Should the text in this component be replaced by random characters.
 			obfuscated = false
-			#Should the text in this component appear with an underline.
-			underline = false
-			#Should the text in this component appear italic.
-			italic = false
-	#Display name of the held item.
-	[components.item_name]
-		#Should this tooltip component be included when rendering held item tooltips.
-		include = true
-		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
-		#Range: > -2147483648
-		priority = 100
-		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
-		advanced_tooltips = false
-		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
-		#Range: > -2147483648
-		ordering = 10
-		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
-		respect_hide_flags = true
-
-		#Text formatting settings for this component's text appearance.
-		[components.item_name.formatting]
-			#Should the text in this component appear bold.
-			bold = false
-			#Should the text in this component appear struck-through.
-			strikethrough = false
-			#The color of this component's text.
-			#The color of this component's text.
-			#Allowed Values: default, black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white
-			text_color = "default"
-			#Should the text in this component be replaced by random characters.
-			obfuscated = false
-			#Should the text in this component appear with an underline.
-			underline = false
-			#Should the text in this component appear italic.
-			italic = false
-	#All enchantments on this item if any are present.
-	[components.enchantments]
-		#Should this tooltip component be included when rendering held item tooltips.
-		include = true
-		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
-		#Range: > -2147483648
-		priority = 70
-		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
-		advanced_tooltips = false
-		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
-		#Range: > -2147483648
-		ordering = 30
-		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
-		respect_hide_flags = true
-
-		#Text formatting settings for this component's text appearance.
-		[components.enchantments.formatting]
-			#Should the text in this component appear bold.
-			bold = false
-			#Should the text in this component appear struck-through.
-			strikethrough = false
-			#The color of this component's text.
-			#The color of this component's text.
-			#Allowed Values: default, black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white
-			text_color = "default"
-			#Should the text in this component be replaced by random characters.
-			obfuscated = false
-			#Should the text in this component appear with an underline.
-			underline = false
-			#Should the text in this component appear italic.
-			italic = false
-	#Attributes this item provides when used or equipped, like attack damage and armor protection.
-	[components.modifiers]
-		#Should this tooltip component be included when rendering held item tooltips.
-		include = false
-		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
-		#Range: > -2147483648
-		priority = 30
-		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
-		advanced_tooltips = false
-		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
-		#Range: > -2147483648
-		ordering = 60
-		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
-		respect_hide_flags = true
-
-		#Text formatting settings for this component's text appearance.
-		[components.modifiers.formatting]
-			#Should the text in this component appear bold.
-			bold = false
-			#Should the text in this component appear struck-through.
-			strikethrough = false
-			#The color of this component's text.
-			#The color of this component's text.
-			#Allowed Values: default, black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white
-			text_color = "default"
-			#Should the text in this component be replaced by random characters.
-			obfuscated = false
-			#Should the text in this component appear with an underline.
-			underline = false
 			#Should the text in this component appear italic.
 			italic = false
 	#Rendered when this item has the unbreakable tag giving it infinite durability.
 	[components.unbreakable]
 		#Should this tooltip component be included when rendering held item tooltips.
 		include = true
-		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
-		#Range: > -2147483648
-		priority = 60
-		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
-		advanced_tooltips = false
 		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
 		#Range: > -2147483648
 		ordering = 70
 		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
 		respect_hide_flags = true
+		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
+		#Range: > -2147483648
+		priority = 60
+		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
+		advanced_tooltips = false
 
 		#Text formatting settings for this component's text appearance.
 		[components.unbreakable.formatting]
+			#Should the text in this component appear with an underline.
+			underline = false
 			#Should the text in this component appear bold.
 			bold = false
 			#Should the text in this component appear struck-through.
@@ -303,27 +212,58 @@ max_lines = 4
 			text_color = "default"
 			#Should the text in this component be replaced by random characters.
 			obfuscated = false
+			#Should the text in this component appear italic.
+			italic = false
+	#Display name of the held item.
+	[components.item_name]
+		#Should this tooltip component be included when rendering held item tooltips.
+		include = true
+		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
+		#Range: > -2147483648
+		ordering = 10
+		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
+		respect_hide_flags = true
+		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
+		#Range: > -2147483648
+		priority = 100
+		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
+		advanced_tooltips = false
+
+		#Text formatting settings for this component's text appearance.
+		[components.item_name.formatting]
 			#Should the text in this component appear with an underline.
 			underline = false
+			#Should the text in this component appear bold.
+			bold = false
+			#Should the text in this component appear struck-through.
+			strikethrough = false
+			#The color of this component's text.
+			#The color of this component's text.
+			#Allowed Values: default, black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white
+			text_color = "default"
+			#Should the text in this component be replaced by random characters.
+			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
 	#The color of dyed items such a leather armor.
 	[components.coloring]
 		#Should this tooltip component be included when rendering held item tooltips.
 		include = true
-		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
-		#Range: > -2147483648
-		priority = 40
-		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
-		advanced_tooltips = true
 		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
 		#Range: > -2147483648
 		ordering = 40
 		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
 		respect_hide_flags = true
+		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
+		#Range: > -2147483648
+		priority = 40
+		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
+		advanced_tooltips = true
 
 		#Text formatting settings for this component's text appearance.
 		[components.coloring.formatting]
+			#Should the text in this component appear with an underline.
+			underline = false
 			#Should the text in this component appear bold.
 			bold = false
 			#Should the text in this component appear struck-through.
@@ -334,7 +274,67 @@ max_lines = 4
 			text_color = "default"
 			#Should the text in this component be replaced by random characters.
 			obfuscated = false
+			#Should the text in this component appear italic.
+			italic = false
+	#All enchantments on this item if any are present.
+	[components.enchantments]
+		#Should this tooltip component be included when rendering held item tooltips.
+		include = true
+		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
+		#Range: > -2147483648
+		ordering = 30
+		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
+		respect_hide_flags = true
+		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
+		#Range: > -2147483648
+		priority = 70
+		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
+		advanced_tooltips = false
+
+		#Text formatting settings for this component's text appearance.
+		[components.enchantments.formatting]
 			#Should the text in this component appear with an underline.
 			underline = false
+			#Should the text in this component appear bold.
+			bold = false
+			#Should the text in this component appear struck-through.
+			strikethrough = false
+			#The color of this component's text.
+			#The color of this component's text.
+			#Allowed Values: default, black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white
+			text_color = "default"
+			#Should the text in this component be replaced by random characters.
+			obfuscated = false
+			#Should the text in this component appear italic.
+			italic = false
+	#Attributes this item provides when used or equipped, like attack damage and armor protection.
+	[components.modifiers]
+		#Should this tooltip component be included when rendering held item tooltips.
+		include = false
+		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
+		#Range: > -2147483648
+		ordering = 60
+		#Should this tooltip component be hidden when vanilla's respective "HideFlags" property is set.
+		respect_hide_flags = true
+		#Priority for rendering this tooltip. When not enough lines are available (like an item with enchantments), components with a low priority will be skipped.
+		#Range: > -2147483648
+		priority = 30
+		#Represent information for this component as if advanced tooltips were enabled independently of the actual setting.
+		advanced_tooltips = false
+
+		#Text formatting settings for this component's text appearance.
+		[components.modifiers.formatting]
+			#Should the text in this component appear with an underline.
+			underline = false
+			#Should the text in this component appear bold.
+			bold = false
+			#Should the text in this component appear struck-through.
+			strikethrough = false
+			#The color of this component's text.
+			#The color of this component's text.
+			#Allowed Values: default, black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white
+			text_color = "default"
+			#Should the text in this component be replaced by random characters.
+			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false

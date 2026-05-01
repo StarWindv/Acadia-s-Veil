@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.3",
+  "versionId": "0.0.4",
   "name": "Acadia's Veil",
   "summary": "Acadia's Veil-fabric-1.20.1-0.0.2",
   "files": [
@@ -191,6 +191,28 @@
         "https://cdn.modrinth.com/data/e0M1UDsY/versions/27IPdmJc/collective-1.20.1-8.20.jar"
       ],
       "fileSize": 662457
+    },
+    {
+      "path": "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+      "hashes": {
+        "sha1": "f750d019bc1230c8c7a8a4ccf549d1db192d7a69",
+        "sha512": "6edaddb93bc87bf8204376d3ceddd3e3dfec1d716556a5925802f2ade59ce5a660ded50088fa94188842ff83fc29445363dfa5d423e425b1574092833b6fa896"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Xbc0uyRg/versions/HAqwA6X1/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar"
+      ],
+      "fileSize": 32189889
+    },
+    {
+      "path": "mods/CreateBetterFps-1.1.2.jar",
+      "hashes": {
+        "sha1": "3f8465b5a0b22d0e9fabce3c6ded911f8878d403",
+        "sha512": "7af231c709556bf1880bbe735671721b9457324266e13b1462efa5ae163692b44a012e61d6beabec152c1d1de47ba6d151dd774c0c71282736c2f472812ec1be"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lMYIHZNH/versions/X0Qa2Pkj/CreateBetterFps-1.1.2.jar"
+      ],
+      "fileSize": 24568
     },
     {
       "path": "mods/cristellib-1.1.5-fabric.jar",
@@ -609,6 +631,17 @@
         "https://cdn.modrinth.com/data/yM94ont6/versions/dgolg36A/notenoughcrashes-4.4.9%2B1.20.1-fabric.jar"
       ],
       "fileSize": 138548
+    },
+    {
+      "path": "mods/nutritionz-1.0.12.jar",
+      "hashes": {
+        "sha1": "a55a163df323c21e4cb0e12a7b2960bbc7f1c11c",
+        "sha512": "2571283f86df92564fe54ada060c1583125eb03d4e0210ab97498e3c5ed091423c709519f2aa0e37f6e27b31309d5d01c832359d2db52763fd287844047b7dbb"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9IASI8W8/versions/dCQC1z0w/nutritionz-1.0.12.jar"
+      ],
+      "fileSize": 149705
     },
     {
       "path": "mods/Obscure-API-16.jar",
@@ -2006,6 +2039,17 @@
         "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
       ],
       "fileSize": 125197
+    },
+    {
+      "path": "mods/[铟] indium-1.0.36+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "d824614e7a173d273167969f427702f51846aca7",
+        "sha512": "7c5a1851f1fc08ae69318e151d07151fabba6cda2a24616c9251e1a4e5b969453e88b97d60f926271d60e3511bfc6fa05a64a108466efb7f29bec4519547e0c9"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Orvt0mRa/versions/nQHYSjxO/indium-1.0.36%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 105382
     },
     {
       "path": "mods/[锂] lithium-fabric-mc1.20.1-0.11.4.jar",

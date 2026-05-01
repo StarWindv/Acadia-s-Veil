@@ -480,6 +480,11 @@
     "version": "2.15.2"
   },
   {
+    "modid": "com_google_code_findbugs_jsr305",
+    "name": "jsr305",
+    "version": "3.0.2"
+  },
+  {
     "modid": "com_ibm_async_asyncutil",
     "name": "asyncutil",
     "version": "0.1.0"
@@ -533,6 +538,16 @@
     "modid": "cratedelight",
     "name": "Crate Delight",
     "version": "25.9.22-1.20-fabric"
+  },
+  {
+    "modid": "create",
+    "name": "Create",
+    "version": "6.0.8.1+build.1744-mc1.20.1"
+  },
+  {
+    "modid": "createbetterfps",
+    "name": "CreateBetterFps",
+    "version": "1.1.2"
   },
   {
     "modid": "cristellib",
@@ -598,6 +613,11 @@
     "modid": "dragonfight",
     "name": "Dragonfight Mod",
     "version": "1.20.1-4.7"
+  },
+  {
+    "modid": "dripstone_fluid_lib",
+    "name": "Dripstone Fluid Lib",
+    "version": "3.0.2"
   },
   {
     "modid": "dungeons_arise_seven_seas",
@@ -760,6 +780,11 @@
     "version": "1.1.1"
   },
   {
+    "modid": "flywheel",
+    "name": "Flywheel",
+    "version": "1.0.5+1.20.1.build.264"
+  },
+  {
     "modid": "folk_sisby_kaleido-config",
     "name": "kaleido-config",
     "version": "0.3.3+1.3.2"
@@ -890,6 +915,11 @@
     "version": "1.4.0+1.20.1"
   },
   {
+    "modid": "indium",
+    "name": "Indium",
+    "version": "1.0.36+mc1.20.1"
+  },
+  {
     "modid": "infinityandmending",
     "name": "Infinity and Mending",
     "version": "1.20.x-1.0.0"
@@ -928,6 +958,11 @@
     "modid": "jankson",
     "name": "Jankson",
     "version": "6.0.0+j1.2.3"
+  },
+  {
+    "modid": "javax_annotation_javax_annotation-api",
+    "name": "javax.annotation-api",
+    "version": "1.3.2"
   },
   {
     "modid": "jep_jep",
@@ -1080,6 +1115,11 @@
     "version": "1.9.2"
   },
   {
+    "modid": "milk",
+    "name": "Milk Lib",
+    "version": "1.2.60"
+  },
+  {
     "modid": "minecraft",
     "name": "Minecraft",
     "version": "1.20.1"
@@ -1193,6 +1233,11 @@
     "modid": "notenoughcrashes",
     "name": "Not Enough Crashes",
     "version": "4.4.9+1.20.1"
+  },
+  {
+    "modid": "nutritionz",
+    "name": "NutritionZ",
+    "version": "1.0.12"
   },
   {
     "modid": "obscure_api",
@@ -1345,59 +1390,84 @@
     "version": "1.8.0"
   },
   {
+    "modid": "ponder",
+    "name": "Ponder",
+    "version": "1.0.91"
+  },
+  {
     "modid": "porting_lib_accessors",
     "name": "Porting Lib Accessors",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_attributes",
     "name": "Porting Lib Attributes",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_base",
     "name": "Porting Lib Base",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
+  },
+  {
+    "modid": "porting_lib_brewing",
+    "name": "Porting Lib Brewing",
+    "version": "2.3.13+1.20.1"
+  },
+  {
+    "modid": "porting_lib_client_events",
+    "name": "Porting Lib Client Events",
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_common",
     "name": "Porting Lib Common",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_config",
     "name": "Porting Lib Config",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_core",
     "name": "Porting Lib Core",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
+  },
+  {
+    "modid": "porting_lib_data",
+    "name": "Porting Lib Data",
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_entity",
     "name": "Porting Lib Entity",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_extensions",
     "name": "Porting Lib Extensions",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_fluids",
     "name": "Porting Lib Fluids",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
+  },
+  {
+    "modid": "porting_lib_gametest",
+    "name": "Porting Lib GameTest",
+    "version": "2.1.1090+1.20"
   },
   {
     "modid": "porting_lib_gui_utils",
     "name": "Porting Lib Gui Utils",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_lazy_registration",
     "name": "Porting Lib Lazy Register",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_loot",
@@ -1407,27 +1477,37 @@
   {
     "modid": "porting_lib_mixin_extensions",
     "name": "Porting Lib Mixin Extensions",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
+  },
+  {
+    "modid": "porting_lib_model_generators",
+    "name": "Porting Lib Model Generators",
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_model_loader",
     "name": "Porting Lib Model Loader",
-    "version": "2.3.4+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_model_materials",
     "name": "Porting Lib Model Materials",
-    "version": "2.3.4+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_models",
     "name": "Porting Lib Models",
-    "version": "2.3.4+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_networking",
     "name": "Porting Lib Networking",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
+  },
+  {
+    "modid": "porting_lib_obj_loader",
+    "name": "Porting Lib Obj Loader",
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_recipe_book_categories",
@@ -1447,17 +1527,17 @@
   {
     "modid": "porting_lib_tool_actions",
     "name": "Porting Lib Tool Actions",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_transfer",
     "name": "Porting Lib Transfer",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "porting_lib_utility",
     "name": "Porting Lib Utility",
-    "version": "2.3.8+1.20.1"
+    "version": "2.3.13+1.20.1"
   },
   {
     "modid": "presencefootsteps",
@@ -1503,6 +1583,11 @@
     "modid": "reeses-sodium-options",
     "name": "Reese\u0027s Sodium Options",
     "version": "1.7.2+mc1.20.1-build.101"
+  },
+  {
+    "modid": "registrate-fabric",
+    "name": "Registrate for Fabric",
+    "version": "1.3.79-MC1.20.1"
   },
   {
     "modid": "riding_partners",
@@ -1695,9 +1780,9 @@
     "version": "0.17.1"
   },
   {
-    "modid": "twt-ce",
-    "name": "Thirst Was Taken - Community Edition",
-    "version": "1.0.0"
+    "modid": "twt-u",
+    "name": "Thirst Was Taken - Unofficial Edition",
+    "version": "0.0.1"
   },
   {
     "modid": "u_sea",
